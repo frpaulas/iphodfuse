@@ -44,16 +44,11 @@ function setLessons(readings) {
     , text2 = ""
     , resp = null
     ;
-  console.log('MP1: ', mp1.length)
   mp1.forEach(function(el) {
       var obj = WEBBible.getReading(el.read);
       obj.type = el.style;
-      console.log("READ>>>", obj.title)
       firstReading.add(obj);
     })
-//  console.log("FIRST READING", Object.keys(firstReading.toArray()[0])[0] )
-  console.log("FIRST READING", Object.keys(firstReading.last())['_values'] )
-  Object.keys(firstReading.value).forEach(function(x) {console.log(x)})
   mp2.value = mp2.map(function(el) {
     var obj = WEBBible.getReading(el.read)
     obj.type = el.style;

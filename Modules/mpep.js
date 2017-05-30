@@ -26,7 +26,6 @@ function setup(thisDate) {
 function getDailyReading(office, date) {
   setup(date);
   var readings = daily[season][week][dayOfWeek];
-  console.log("GDR>>>", office, season, week, dayOfWeek)
   return { first: readings[office + "1"], second: readings[office + "2"]};
 }
 

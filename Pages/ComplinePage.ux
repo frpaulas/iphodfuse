@@ -1,7 +1,6 @@
 <iphod.Page ux:Class="ComplinePage">
   <Router ux:Dependency="router" />
-  <JavaScript File="../Modules/Helpers.js" />
-  <JavaScript File="ComplinePage.js" />
+  <JavaScript File="ComplinePage.js" />  <Activated>
 
   <DockPanel>
     <iphod.Button Text="Back" Clicked="{back}" Margin="10" Padding="10" Dock="Bottom" />

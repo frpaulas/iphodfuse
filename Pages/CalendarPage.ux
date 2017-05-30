@@ -1,6 +1,5 @@
 <iphod.Page ux:Class="CalendarPage">
   <Router ux:Dependency="router" />
-  <JavaScript File="../Modules/Helpers.js" />
 
   <DockPanel>
     <iphod.Button Text="Back" Clicked="{back}" Margin="10" Padding="10" Dock="Bottom" />
