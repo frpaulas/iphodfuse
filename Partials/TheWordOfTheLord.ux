@@ -1,0 +1,4 @@
+<WrapPanel ux:Class="TheWordOfTheLord" Margin="5,0,5,0">
+  <Versical Speaker="" Text="The Word of the Lord" />
+  <Versical Speaker="People" Text="Thanks be to God" />
+</WrapPanel>

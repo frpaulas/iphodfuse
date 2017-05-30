@@ -1,0 +1,12 @@
+<WrapPanel ux:Class="VeniteLent" Margin="5,0,5,0">
+<Rubric>In Lent, and on other penitential occasions, the following verses are added.</Rubric>
+  <iphod.Regular>Do not harden your hearts, as at Meribah,</iphod.Regular>
+  <Indent>as on the day at Massah in the wilderness,</Indent>
+  <Indent>when your fathers put me to the test</Indent>
+  <Indent>and put me to the proof, though they had seen my work.</Indent>
+  <iphod.Regular>For forty years I loathed that generation</iphod.Regular>
+  <Indent>and said, “They are a people who go astray in their heart,</Indent>
+  <Indent>and they have not known my ways.”</Indent>
+  <iphod.Regular>Therefore I swore in my wrath,</iphod.Regular>
+  <Indent>“They shall not enter my rest.”</Indent>
+</WrapPanel>

@@ -1,0 +1,25 @@
+<WrapPanel ux:Class="Magnificat" Margin="5,0,5,0">
+  <PsalmTitle Text="Magnificat">The Song of Mary</PsalmTitle>
+  <Reference>Luke 1:46-55</Reference>
+  <iphod.Regular>My soul magnifies the Lord,</iphod.Regular>
+  <Indent>and my spirit rejoices in God my Savior.</Indent>
+  <iphod.Regular>For he has regarded</iphod.Regular>
+  <Indent>the lowliness of his handmaiden.</Indent>
+  <iphod.Regular>For behold, from now on,</iphod.Regular>
+  <Indent>all generations will call me blessed.</Indent>
+  <iphod.Regular>For he that is mighty has magnified me,</iphod.Regular>
+  <Indent>and holy is his Name.</Indent>
+  <iphod.Regular>And his mercy is on those who fear him,</iphod.Regular>
+  <Indent>throughout all generations.</Indent>
+  <iphod.Regular>He has shown the strength of his arm;</iphod.Regular>
+  <Indent>he has scattered the proud in the imagination of their hearts.</Indent>
+  <iphod.Regular>He has brought down the mighty from their thrones,</iphod.Regular>
+  <Indent>and has exalted the humble and meek.</Indent>
+  <iphod.Regular>He has filled the hungry with good things,</iphod.Regular>
+  <Indent>and the rich he has sent empty away.</Indent>
+  <iphod.Regular>He, remembering his mercy, has helped his servant Israel,</iphod.Regular>
+  <Indent>as he promised to our fathers, Abraham and his seed forever.</Indent>
+  <iphod.Regular>Glory to the Father, and to the Son, and to the Holy Spirit;</iphod.Regular>
+  <Indent>as it was in the beginning, is now, and ever shall be,</Indent>
+  <Indent>world without end. Amen.</Indent>
+</WrapPanel>

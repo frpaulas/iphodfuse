@@ -1,0 +1,11 @@
+<WrapPanel ux:Class="EPcollectForMonday" Margin="5,0,5,0" >
+<SectionTitle>A Collect for Peace (Monday)</SectionTitle>
+  <iphod.Regular>
+    O God, the source of all holy desires, all good counsels, and all just
+    works: Give to your servants that peace which the world cannot give,
+    that our hearts may be set to obey your commandments, and that we,
+    being defended from the fear of our enemies, may pass our time in 
+    rest and quietness, through the merits of Jesus Christ our Savior.
+  </iphod.Regular>
+  <iphod.Italic>Amen</iphod.Italic>
+</WrapPanel>

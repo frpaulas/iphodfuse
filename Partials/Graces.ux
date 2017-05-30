@@ -1,0 +1,19 @@
+<WrapPanel ux:Class="Graces" Margin="5,0,5,0">
+  <Rubric>The Officiant may invite the People to join in one of the Graces.</Rubric>
+  <iphod.Regular>
+    The grace of our Lord Jesus Christ, and the love of God, and the
+    fellowship of the Holy Spirit, be with us all evermore. Amen.
+  </iphod.Regular>
+  <Reference>2 Corinthians 13:14</Reference>
+  <iphod.Regular>
+    May the God of hope fill us with all joy and peace in believing
+    through the power of the Holy Spirit. Amen.
+  </iphod.Regular>
+  <Reference>Romans 15:13</Reference>
+  <iphod.Regular>
+    Glory to God whose power, working in us, can do infinitely more
+    than we can ask or imagine: Glory to him from generation to
+    generation in the Church, and in Christ Jesus forever and ever. Amen.
+  </iphod.Regular>
+  <Reference>Ephesians 3:20-21</Reference>
+</WrapPanel>

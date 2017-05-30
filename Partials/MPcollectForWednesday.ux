@@ -1,0 +1,11 @@
+<WrapPanel ux:Class="MPcollectForWednesday" Margin="5,0,5,0" >
+  <SectionTitle>A Collect for Grace (Wednesday)</SectionTitle>
+  <iphod.Regular>
+    O Lord, our heavenly Father, almighty and everlasting God, you have
+    brought us safely to the beginning of this day: Defend us by your
+    mighty power, that we may not fall into sin nor run into any danger;
+    and that guided by your Spirit, we may do what is righteous in your
+    sight; through Jesus Christ our Lord.
+  </iphod.Regular>
+  <iphod.Italic>Amen</iphod.Italic>
+</WrapPanel>

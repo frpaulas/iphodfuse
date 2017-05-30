@@ -1,0 +1,27 @@
+<WrapPanel ux:Class="QuaeriteDominum" Margin="5,0,5,0">
+  <Rubric>Especially suitable for use during Lent</Rubric>
+  <PsalmTitle Text="Quaerite Dominum">Seek the Lord while he wills to be found</PsalmTitle>
+  <Reference>Isaiah 55:6-11</Reference>
+  <iphod.Regular>Seek the Lord while he wills to be found;</iphod.Regular>
+  <Indent>call upon him when he draws near.</Indent>
+  <iphod.Regular>Let the wicked forsake their ways</iphod.Regular>
+  <Indent>and the evil ones their thoughts;</Indent>
+  <iphod.Regular>And let them turn to the Lord, and he will have compassion,</iphod.Regular>
+  <Indent>and to our God, for he will richly pardon.</Indent>
+  <iphod.Regular>For my thoughts are not your thoughts,</iphod.Regular>
+  <Indent>nor your ways my ways, says the Lord.</Indent>
+  <iphod.Regular>For as the heavens are higher than the earth,</iphod.Regular>
+  <Indent>so are my ways higher than your ways,</Indent>
+  <Indent>and my thoughts than your thoughts.</Indent>
+  <iphod.Regular>For as rain and snow fall from the heavens</iphod.Regular>
+  <Indent>and return not again, but water the earth,</Indent>
+  <iphod.Regular>Bringing forth life and giving growth,</iphod.Regular>
+  <Indent>seed for sowing and bread for eating,</Indent>
+  <iphod.Regular>So is my word that goes forth from my mouth;</iphod.Regular>
+  <Indent>it will not return to me empty;</Indent>
+  <iphod.Regular>But it will accomplish that which I have purposed,</iphod.Regular>
+  <Indent>and prosper in that for which I sent it.</Indent>
+  <iphod.Regular>Glory to the Father, and to the Son, and to the Holy Spirit;</iphod.Regular>
+  <Indent>as it was in the beginning, is now, and ever shall be, world</Indent>
+  <Indent>without end. Amen.</Indent>
+</WrapPanel>

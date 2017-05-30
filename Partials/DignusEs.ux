@@ -1,0 +1,17 @@
+<WrapPanel ux:Class="DignusEs" Margin="5,0,5,0" >
+  <Rubric>Especially suitable for use after Ascension and in Easter season</Rubric>
+  <PsalmTitle Text="Dignus es">A Song to the Lamb</PsalmTitle>
+  <iphod.Regular>Revelation 4:11; 5:9-10, 13</iphod.Regular>
+  <iphod.Regular>Splendor and honor and kingly power</iphod.Regular>
+  <Indent>are yours by right, O Lord our God,</Indent>
+  <iphod.Regular>For you created everything that is,</iphod.Regular>
+  <Indent>and by your will they were created and have their being;</Indent>
+  <iphod.Regular>And yours by right, O Lamb that was slain,</iphod.Regular>
+  <Indent>for with your blood you have redeemed for God,</Indent>
+  <iphod.Regular>From every family, language, people and nation,</iphod.Regular>
+  <Indent>a kingdom of priests to serve our God.</Indent>
+  <iphod.Regular>And so, to him who sits upon the throne,</iphod.Regular>
+  <Indent>and to Christ the Lamb,</Indent>
+  <iphod.Regular>Be worship and praise, dominion and splendor,</iphod.Regular>
+  <Indent>for ever and for evermore.</Indent>
+</WrapPanel>

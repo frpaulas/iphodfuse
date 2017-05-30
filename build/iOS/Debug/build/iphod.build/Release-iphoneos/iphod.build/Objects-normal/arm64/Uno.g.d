@@ -1,0 +1,106 @@
+dependencies: \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Float2.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Object.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Int2.h \
+  /Users/paulsutcliffe/Library/Application\ Support/Fusetools/Packages/UnoCore/1.0.11/prebuilt/iOS/include/uBase/Exception.h \
+  /Users/paulsutcliffe/Library/Application\ Support/Fusetools/Packages/UnoCore/1.0.11/prebuilt/iOS/include/uBase/Vector2.h \
+  /Users/paulsutcliffe/Library/Application\ Support/Fusetools/Packages/UnoCore/1.0.11/prebuilt/iOS/include/uBase/String.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno/Support.h \
+  /Users/paulsutcliffe/Library/Application\ Support/Fusetools/Packages/UnoCore/1.0.11/prebuilt/iOS/include/uBase/Config.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno/_config.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno/Memory.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno/ObjectModel.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno/Uno.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/iphod/iphod-Prefix.pch \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/src/Uno.g.cpp \
+  /Users/paulsutcliffe/Library/Application\ Support/Fusetools/Packages/UnoCore/1.0.11/prebuilt/iOS/include/uBase/Traits.h \
+  /Users/paulsutcliffe/Library/Application\ Support/Fusetools/Packages/UnoCore/1.0.11/prebuilt/iOS/include/uBase/Unicode.h \
+  /Users/paulsutcliffe/Library/Application\ Support/Fusetools/Packages/UnoCore/1.0.11/prebuilt/iOS/include/uBase/StringU16.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Action.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Delegate.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Action-1.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Action-2.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Action-3.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Action-4.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.AggregateException.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Exception.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Application.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Platform.CoreApp.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.ArgumentException.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.ArgumentNullException.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.ArgumentOutOfRang-6803b39e.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Array.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Bool.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Buffer.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Byte.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Char.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Collections.List-1.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Collections.ICollection-1.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Collections.IEnumerable-1.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Collections.IList-1.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Collections.List--251bdc7d.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Collections.IEnumerator.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Collections.IEnumerator-1.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.IDisposable.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Color.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Comparison-1.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.DateTime.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Double.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Enum.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.EventArgs.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.EventHandler.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.EventHandler-1.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Float.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Float2x2.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Float3.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Float3x3.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Float4.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Float4x4.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.FormatException.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Func-1.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Func-2.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Func-3.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Func-4.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.GC.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Generic.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.IndexOutOfRangeException.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Int.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Int3.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Int4.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.IntPtr.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.InvalidCastException.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.InvalidOperationException.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Long.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Math.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Matrix.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.NotSupportedException.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.NullReferenceException.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.ObjectDisposedException.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.OverflowException.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Platform.Window.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Platform.OSFrame.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Predicate-1.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Quaternion.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Rect.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Recti.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Runtime.Implement-1faed10e.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Runtime.Implement-444123a4.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Runtime.Implement-496b321b.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Runtime.Implement-4bb10a0a.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Runtime.Implement-78c05898.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Runtime.Implement-ed55561e.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.SByte.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Short.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.String.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Text.StringBuilder.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Time.ZonedDateTime.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Time.Offset.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Tuple.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Tuple-2.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Type.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.UInt.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.ULong.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.UShort.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Vector.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.WeakReference-1.h

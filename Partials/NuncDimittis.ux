@@ -1,0 +1,13 @@
+<WrapPanel ux:Class="NuncDimittis" Margin="5,0,5,0">
+  <PsalmTitle Text="Nunc dimittis">The Song of Simeon</PsalmTitle>
+  <Reference>Luke 2:29-32</Reference>
+  <iphod.Regular>Lord, now let your servant depart in peace,</iphod.Regular>
+  <Indent>according to your word.</Indent>
+  <iphod.Regular>For my eyes have seen your salvation,</iphod.Regular>
+  <Indent>which you have prepared before the face of all people;</Indent>
+  <iphod.Regular>to be a light to lighten the Gentiles,</iphod.Regular>
+  <Indent>and to be the glory of your people Israel.</Indent>
+  <iphod.Regular>Glory to the Father, and to the Son, and to the Holy Spirit;</iphod.Regular>
+  <Indent>as it was in the beginning, is now, and ever shall be, world</Indent>
+  <Indent>without end. Amen.</Indent>
+</WrapPanel>

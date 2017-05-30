@@ -1,0 +1,28 @@
+<App Background="#ffffff">
+  <Font File="Assets/Georgia.ttf" ux:Global="RegularFont" />
+  <Font File="Assets/Georgia Italic.ttf" ux:Global="ItalicFont" />
+  <Font File="Assets/Georgia Bold.ttf" ux:Global="BoldFont" />
+  <Font File="Assets/Georgia Bold Italic.ttf" ux:Global="BoldItalicFont" />
+  <iOS.StatusBarConfig Style="Light" />
+  <Android.StatusBarConfig Color="#022328" />
+
+  <Router ux:Name="router" />
+
+  <ClientPanel>
+    <SwipeGesture ux:Name="swipe" Direction="Right" Length="50" Type="Simple" />    
+    <Navigator DefaultPath="home" SwipeBack="Right">
+      <HomePage               ux:Template="home"                    router="router" />
+      <CalendarPage           ux:Template="calendarPage"            router="router" />
+      <MorningPrayerPage      ux:Template="morningPrayerPage"       router="router" />
+      <MiddayPrayerPage       ux:Template="middayPrayerPage"        router="router" />
+      <EveningPrayerPage      ux:Template="eveningPrayerPage"       router="router" />
+      <ComplinePage           ux:Template="complinePage"            router="router" />
+      <FamilyPrayerPage       ux:Template="familyPrayerPage"        router="router" />
+      <ReconciliationPage     ux:Template="reconciliationPage"      router="router" />
+      <ToTheSickPage          ux:Template="toTheSickPage"           router="router" />
+      <CommunionToSickPage    ux:Template="communionToSickPage"     router="router" />
+      <TimeOfDeathPage        ux:Template="timeOfDeathPage"         router="router" />
+      <StationsOfTheCrossPage ux:Template="stationsOfTheCrossPage"  router="router" />
+    </Navigator>
+  </ClientPanel>
+</App>

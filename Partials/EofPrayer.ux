@@ -1,0 +1,4 @@
+<WrapPanel ux:Class="EofPrayer" Margin="5,0,5,0" >
+  <Versical Speaker="" Text="Let us bless the Lord" />
+  <Versical Speaker="People" Text="Thanks be to God" />
+</WrapPanel>

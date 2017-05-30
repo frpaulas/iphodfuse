@@ -1,0 +1,4 @@
+<iphod.Italic ux:Class="PsalmTitle" Margin="140,0,5,0">
+  <string ux:Property="Text" />
+  <iphod.Bold Value="{ReadProperty Text}" TextAlignment="Left" Margin="-140,0,0,0" TextWrapping="Wrap"/>
+</iphod.Italic>

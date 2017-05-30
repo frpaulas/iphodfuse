@@ -1,0 +1,29 @@
+<WrapPanel ux:Class="CantateDomino" Margin="5,0,5,0" >
+  <Rubric>Especially suitable for use in Easter and at any time outside penitential seasons</Rubric>
+  <PsalmTitle Text="Cantate Domino">Sing to the Lord a New Song</PsalmTitle>
+  <Reference>Psalm 98</Reference>
+  <iphod.Regular>Sing to the Lord a new song,</iphod.Regular>
+  <Indent>for he has done marvelous things.</Indent>
+  <iphod.Regular>With his right hand and his holy arm</iphod.Regular>
+  <Indent>has he won for himself the victory.</Indent>
+  <iphod.Regular>The Lord has made known his victory;</iphod.Regular>
+  <Indent>his righteousness has he openly shown in the sight of the nations.</Indent>
+  <iphod.Regular>He remembers his mercy and faithfulness to the house of Israel,</iphod.Regular>
+  <Indent>and all the ends of the earth have seen the victory of our God.</Indent>
+  <iphod.Regular>Shout with joy to the Lord, all you lands; lift up your voice, rejoice,</iphod.Regular>
+  <Indent>and sing.</Indent>
+  <iphod.Regular>Sing to the Lord with the harp,</iphod.Regular>
+  <Indent>with the harp and the voice of song.</Indent>
+  <iphod.Regular>With trumpets and the sound of the horn</iphod.Regular>
+  <Indent>shout with joy before the King, the Lord.</Indent>
+  <iphod.Regular>Let the sea make a noise and all that is in it,</iphod.Regular>
+  <Indent>the lands and those who dwell therein.</Indent>
+  <iphod.Regular>Let the rivers clap their hands,</iphod.Regular>
+  <Indent>and let the hills ring out with joy before the Lord,</Indent>
+  <Indent>when he comes to judge the earth.</Indent>
+  <iphod.Regular>In righteousness shall he judge the world</iphod.Regular>
+  <Indent>and the peoples with equity.</Indent>
+  <iphod.Regular>Glory to the Father, and tocantate Son, and to the Holy Spirit;</iphod.Regular>
+  <Indent>as it was in the beginning, is now, and ever shall be,</Indent>
+  <Indent>world without end. Amen.</Indent>
+</WrapPanel>

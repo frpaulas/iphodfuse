@@ -1,0 +1,29 @@
+-x
+c++
+-arch
+armv7
+-std=c++11
+-stdlib=libc++
+-fmodules
+-gmodules
+-fbuild-session-file=/var/folders/yw/x6hr6tps49s2hx7mjh2tp8y40000gn/C/org.llvm.clang/ModuleCache/Session.modulevalidation
+-fpascal-strings
+-Os
+-fno-common
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk
+-miphoneos-version-min=8.0
+-g
+-fvisibility=hidden
+-fvisibility-inlines-hidden
+-iquote
+-iquote
+-I/Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/build/Release-iphoneos/include
+-Iinclude
+-I/Users/paulsutcliffe/Library/Application Support/Fusetools/Packages/UnoCore/1.0.11/prebuilt/iOS/include
+-F/Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/build/Release-iphoneos
+-F/Users/paulsutcliffe/Library/Application Support/Fusetools/Packages/Fuse.WebSockets/1.0.2/ios/jetfire/Jetfire-iOS/Carthage/Build/iOS
+arm-apple-darwin16.6.0
+"4.2.1 Compatible Apple LLVM 8.1.0 (clang-802.0.42)"
+SDK_PRODUCT_BUILD_VERSION=14E269
+14E269

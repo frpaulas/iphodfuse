@@ -1,0 +1,6 @@
+<Grid ux:Class="Versical" Margin="5,0,5,0" DefaultRow="auto" Columns="70, 290" >
+  <string ux:Property="Speaker" />
+  <string ux:Property="Text" />
+  <iphod.Italic Value="{ReadProperty Speaker}" />
+  <iphod.Regular Value="{ReadProperty Text}" />
+</Grid>

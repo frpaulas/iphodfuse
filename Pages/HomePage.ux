@@ -1,0 +1,24 @@
+<iphod.Page ux:Class="HomePage" >
+  <Router ux:Dependency="router" />
+
+  <JavaScript File="HomePage.js" />
+
+  <DockPanel>
+    <iphod.Text FontSize="30" TextAlignment="Center" Dock="Top" Margin="0,50">Legereme</iphod.Text>
+    <ScrollView>
+      <StackPanel>
+        <Rectangle ux:Class="Separator" Height="1" Fill="#0004" />
+        <Each Items="{pages}">
+          <Separator />
+          <Panel HitTestMode="LocalBoundsAndChildren" Clicked="{goToPage}">
+            <iphod.Text Value="{name}" Margin="10" />
+            <WhilePressed>
+              <Scale Factor="0.5" Duration="0.08" Easing="QuadraticOut" />
+            </WhilePressed>
+          </Panel>
+        </Each>
+        <Separator />
+      </StackPanel>
+    </ScrollView>
+  </DockPanel>
+</iphod.Page>

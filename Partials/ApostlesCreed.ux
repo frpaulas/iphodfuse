@@ -1,0 +1,22 @@
+<WrapPanel ux:Class="ApostlesCreed" Margin="5,0,5,0">
+  <iphod.Bold>The Apostles’ Creed</iphod.Bold>
+  <Rubric>Officiant and People together, all standing</Rubric>
+  <iphod.Regular>I believe in God, the Father almighty,</iphod.Regular>
+  <Indent>creator of heaven and earth.</Indent>
+  <iphod.Regular>I believe in Jesus Christ, his only Son, our Lord.</iphod.Regular>
+  <Indent>He was conceived by the Holy Spirit</Indent>
+  <Indent>and born of the Virgin Mary.</Indent>
+  <Indent>He suffered under Pontius Pilate,</Indent>
+  <Indent>was crucified, died, and was buried.</Indent>
+  <Indent>He descended to the dead.</Indent>
+  <Indent>On the third day he rose again.</Indent>
+  <Indent>He ascended into heaven,</Indent>
+  <Indent>and is seated at the right hand of the Father.</Indent>
+  <Indent>He will come again to judge the living and the dead</Indent>
+  <iphod.Regular>I believe in the Holy Spirit,</iphod.Regular>
+  <Indent>the holy catholic Church,</Indent>
+  <Indent>the communion of saints,</Indent>
+  <Indent>the forgiveness of sins,</Indent>
+  <Indent>the resurrection of the body,</Indent>
+  <Indent>and the life everlasting. Amen.</Indent>
+</WrapPanel>

@@ -1,0 +1,12 @@
+{
+  "name": "iphod",
+  "version": "0.0.0",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-datetime": "^1.4.1",
+    "mocha": "*"
+  },
+  "dependencies": {
+    "moment": "^2.18.1"
+  }
+}

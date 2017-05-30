@@ -1,0 +1,11 @@
+<WrapPanel ux:Class="EPcollectForSunday" Margin="5,0,5,0" >
+<SectionTitle>A Collect for for Resurrection Hope (Sunday)</SectionTitle>
+  <iphod.Regular>
+    Lord God, whose Son our Savior Jesus Christ triumphed over the
+    powers of death and prepared for us our place in the new Jerusalem:
+    Grant that we, who have this day given thanks for his resurrection,
+    may praise you in that City of which he is the light, and where he
+    lives and reigns forever and ever.
+  </iphod.Regular>
+  <iphod.Italic>Amen</iphod.Italic>
+</WrapPanel>

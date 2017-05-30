@@ -1,0 +1,65 @@
+dependencies: \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Float2.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Object.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Int2.h \
+  /Users/paulsutcliffe/Library/Application\ Support/Fusetools/Packages/UnoCore/1.0.11/prebuilt/iOS/include/uBase/Exception.h \
+  /Users/paulsutcliffe/Library/Application\ Support/Fusetools/Packages/UnoCore/1.0.11/prebuilt/iOS/include/uBase/Vector2.h \
+  /Users/paulsutcliffe/Library/Application\ Support/Fusetools/Packages/UnoCore/1.0.11/prebuilt/iOS/include/uBase/String.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno/Support.h \
+  /Users/paulsutcliffe/Library/Application\ Support/Fusetools/Packages/UnoCore/1.0.11/prebuilt/iOS/include/uBase/Config.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno/_config.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno/Memory.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno/ObjectModel.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno/Uno.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/iphod/iphod-Prefix.pch \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/src/OpenGL.g.cpp \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/OpenGL.GL.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/OpenGL.GLBlendEquation.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Int.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/OpenGL.GLBlendingFactor.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/OpenGL.GLBufferHandle.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/OpenGL.GLBufferTarget.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/OpenGL.GLBufferUsage.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/OpenGL.GLClearBufferMask.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/OpenGL.GLCullFaceMode.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/OpenGL.GLDataType.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/OpenGL.GLDepthFunction.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/OpenGL.GLEnableCap.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/OpenGL.GLError.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/OpenGL.GLFramebufferAttachment.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/OpenGL.GLFramebufferHandle.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/OpenGL.GLFramebufferStatus.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/OpenGL.GLFramebufferTarget.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/OpenGL.GLFrontFaceDirection.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/OpenGL.GLIndexType.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/OpenGL.GLInteger4Name.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/OpenGL.GLIntegerName.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/OpenGL.GLPixelFormat.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/OpenGL.GLPixelType.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/OpenGL.GLPrimitiveType.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/OpenGL.GLProgramHandle.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/OpenGL.GLProgramParameter.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/OpenGL.GLRenderbufferHandle.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/OpenGL.GLRenderbufferStorage.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/OpenGL.GLRenderbufferTarget.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/OpenGL.GLShaderHandle.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/OpenGL.GLShaderParameter.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/OpenGL.GLShaderType.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/OpenGL.GLStringName.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/OpenGL.GLTextureHandle.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/OpenGL.GLTextureParameterName.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/OpenGL.GLTextureParameterValue.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/OpenGL.GLTextureTarget.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/OpenGL.GLTextureUnit.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Bool.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Buffer.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Float.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Float2x2.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Float3.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Float4.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Float4x4.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Int4.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.IntPtr.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.String.h \
+  /Users/paulsutcliffe/Library/Application\ Support/Fusetools/Packages/UnoCore/1.0.11/prebuilt/iOS/include/XliPlatform/GL.h

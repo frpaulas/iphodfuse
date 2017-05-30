@@ -1,0 +1,16 @@
+<WrapPanel ux:Class="Jubilate" Margin="5,0,5,0">
+  <PsalmTitle Text="Jubilate">Be Joyful</PsalmTitle>
+  <Reference>Psalm 100</Reference>
+  <iphod.Regular>Be joyful in the Lord, all you lands;</iphod.Regular>
+  <Indent>serve the Lord with gladness</Indent>
+  <Indent>and come before his presence with a song.</Indent>
+  <iphod.Regular>Know this: the Lord himself is God;</iphod.Regular>
+  <Indent>he himself has made us, and we are his;</Indent>
+  <Indent>we are his people and the sheep of his pasture.</Indent>
+  <iphod.Regular>Enter his gates with thanksgiving;</iphod.Regular>
+  <Indent>go into his courts with praise;</Indent>
+  <Indent>give thanks to him and call upon his Name.</Indent>
+  <iphod.Regular>For the Lord is good;</iphod.Regular>
+  <Indent>his mercy is everlasting;</Indent>
+  <Indent>and his faithfulness endures from age to age.</Indent>
+</WrapPanel>

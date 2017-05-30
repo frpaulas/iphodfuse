@@ -1,0 +1,4 @@
+$: -2068469407
+BuildCommand: build.sh
+RunCommand: run.sh
+Product: build/Release-iphoneos/iphod.app/iphod

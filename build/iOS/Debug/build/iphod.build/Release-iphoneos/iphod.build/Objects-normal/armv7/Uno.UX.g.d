@@ -1,0 +1,71 @@
+dependencies: \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Float2.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Object.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Int2.h \
+  /Users/paulsutcliffe/Library/Application\ Support/Fusetools/Packages/UnoCore/1.0.11/prebuilt/iOS/include/uBase/Exception.h \
+  /Users/paulsutcliffe/Library/Application\ Support/Fusetools/Packages/UnoCore/1.0.11/prebuilt/iOS/include/uBase/Vector2.h \
+  /Users/paulsutcliffe/Library/Application\ Support/Fusetools/Packages/UnoCore/1.0.11/prebuilt/iOS/include/uBase/String.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno/Support.h \
+  /Users/paulsutcliffe/Library/Application\ Support/Fusetools/Packages/UnoCore/1.0.11/prebuilt/iOS/include/uBase/Config.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno/_config.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno/Memory.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno/ObjectModel.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno/Uno.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/iphod/iphod-Prefix.pch \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/src/Uno.UX.g.cpp \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Action-1.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Delegate.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.ArgumentException.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Exception.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Bool.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Byte.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Collections.Dicti-d1699346.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Collections.IEnumerator.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Collections.IEnumerator-1.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.IDisposable.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Collections.KeyValuePair-2.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Collections.Dictionary-2.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Collections.Dicti-e0584c76.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Collections.ICollection-1.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Collections.IEnumerable-1.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Collections.IDictionary-2.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Collections.IList-1.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Collections.List-1.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Collections.List--251bdc7d.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.EventArgs.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.EventHandler-1.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Float.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Int.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.InvalidOperationException.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.IO.BinaryReader.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.IO.BundleFile.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.IO.MemoryStream.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.IO.Stream.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.IO.StreamReader.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.IO.TextReader.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Long.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.NotSupportedException.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Predicate-1.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.String.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Threading.Monitor.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Type.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.UX.BundleFileSource.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.UX.FileSource.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.UX.Expression-1.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.UX.IPropertyListener.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.UX.Selector.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.UX.NameTable.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.UX.Property.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.UX.PropertyAccessor.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.UX.Property-1.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.UX.PropertyObject.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.UX.Resource.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.UX.SelectorRegistry.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.UX.Size.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.UX.Size2.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.UX.StreamExtensions.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.UX.Template.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.UX.Unit.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.UX.ValueChangedArgs-1.h \
+  /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.UX.ValueChangedHandler-1.h

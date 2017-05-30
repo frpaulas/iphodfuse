@@ -1,0 +1,55 @@
+<WrapPanel ux:Class="BenediciteOmniaOperaDomini" Margin="5,0,5,0" >
+  <Rubric>Especially suitable for use on Saturday</Rubric>
+  <PsalmTitle Text="Benedicite, omnia opera Domini">A Song of Creation</PsalmTitle>
+  <Reference>Song of the Three Young Men, 35-65</Reference>
+  <iphod.Italic TextAlignment="Center">Invocation</iphod.Italic>
+  <iphod.Regular>Glorify the Lord, all you works of the Lord,</iphod.Regular>
+  <Indent>praise him and highly exalt him for ever.</Indent>
+  <iphod.Regular>In the firmament of his power, glorify the Lord,</iphod.Regular>
+  <Indent>praise him and highly exalt him for ever.</Indent>
+  <iphod.Italic TextAlignment="Center">I The Cosmic Order</iphod.Italic>
+  <iphod.Regular>Glorify the Lord, you angels and all powers of the Lord,</iphod.Regular>
+  <Indent>O heavens and all waters above the heavens.</Indent>
+  <iphod.Regular>Sun and moon and stars of the sky, glorify the Lord,</iphod.Regular>
+  <Indent>praise him and highly exalt him for ever.</Indent>
+  <iphod.Regular>Glorify the Lord, every shower of rain and fall of dew,</iphod.Regular>
+  <Indent>all winds and fire and heat,</Indent>
+  <iphod.Regular>Winter and summer, glorify the Lord,</iphod.Regular>
+  <Indent>praise him and highly exalt him for ever.</Indent>
+  <iphod.Regular>Glorify the Lord, O chill and cold,</iphod.Regular>
+  <Indent>drops of dew and flakes of snow.</Indent>
+  <iphod.Regular>Frost and cold, ice and sleet, glorify the Lord,</iphod.Regular>
+  <Indent>praise him and highly exalt him for ever.</Indent>
+  <iphod.Regular>Glorify the Lord, of nights and days,</iphod.Regular>
+  <Indent>O shining light and enfolding dark.</Indent>
+  <iphod.Regular>Storm clouds and thunderbolts, glorify the Lord,</iphod.Regular>
+  <Indent>praise him and highly exalt him for ever.</Indent>
+  <iphod.Italic TextAlignment="Center">II The Earth and its Creatures</iphod.Italic>
+  <iphod.Regular>Let the earth glorify the Lord,</iphod.Regular>
+  <Indent>praise him and highly exalt him forever.</Indent>
+  <iphod.Regular>Glorify the Lord, O mountains and hills,</iphod.Regular>
+  <Indent>and all that grows upon the earth,</Indent>
+  <Indent>praise him and highly exalt him forever.</Indent>
+  <iphod.Regular>Glorify the Lord, O springs of water, seas, and streams,</iphod.Regular>
+  <Indent>O whales and all that move in the waters.</Indent>
+  <iphod.Regular>All birds of the air, glorify the Lord,</iphod.Regular>
+  <Indent>praise him and highly exalt him forever.</Indent>
+  <iphod.Regular>Glorify the Lord, O beasts of the wild,</iphod.Regular>
+  <Indent>and all you flocks and herds.</Indent>
+  <iphod.Regular>O men and women everywhere, glorify the Lord,</iphod.Regular>
+  <Indent>praise him and highly exalt him forever.</Indent>
+  <iphod.Italic TextAlignment="Center">III The People of God</iphod.Italic>
+  <iphod.Regular>Let the people of God glorify the Lord,</iphod.Regular>
+  <Indent>praise him and highly exalt him forever.</Indent>
+  <iphod.Regular>Glorify the Lord, O priests and servants of the Lord,</iphod.Regular>
+  <Indent>praise him and highly exalt him forever.</Indent>
+  <iphod.Regular>Glorify the Lord, O spirits and souls of the righteous,</iphod.Regular>
+  <Indent>praise him and highly exalt him forever.</Indent>
+  <iphod.Regular>You that are holy and humble of heart, glorify the Lord,</iphod.Regular>
+  <Indent>praise him and highly exalt him forever.</Indent>
+  <iphod.Italic TextAlignment="Center">Doxology</iphod.Italic>
+  <iphod.Regular>Let us glorify the Lord: the Father, the Son and the Holy Spirit;</iphod.Regular>
+  <Indent>praise him and highly exalt him forever.</Indent>
+  <iphod.Regular>In the firmament of his power, glorify the Lord,</iphod.Regular>
+  <Indent>praise him and highly exalt him forever.</Indent>
+</WrapPanel>

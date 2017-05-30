@@ -1,0 +1,104 @@
+Identifier   ProcessPCH++\ /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/build/SharedPrecompiledHeaders/iphod-Prefix-clojyemicsasibhaiifsipeklkpi/iphod-Prefix.pch.pch\ iphod/iphod-Prefix.pch\ normal\ arm64\ c++\ com.apple.compilers.llvm.clang.1_0.compiler
+CmdSignature bbe870b1dd67088d765b2d4ecf779566
+Description  ProcessPCH++\ /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/build/SharedPrecompiledHeaders/iphod-Prefix-clojyemicsasibhaiifsipeklkpi/iphod-Prefix.pch.pch\ iphod/iphod-Prefix.pch\ normal\ arm64\ c++\ com.apple.compilers.llvm.clang.1_0.compiler
+CommandLine  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++-header -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -stdlib=libc++ -fmodules -gmodules -fmodules-prune-interval=86400 -fmodules-prune-after=345600 -fbuild-session-file=/var/folders/yw/x6hr6tps49s2hx7mjh2tp8y40000gn/C/org.llvm.clang/ModuleCache/Session.modulevalidation -fmodules-validate-once-per-build-session -Wnon-modular-include-in-framework-module -Werror=non-modular-include-in-framework-module -Wno-trigraphs -fpascal-strings -Os -fno-common -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wempty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -miphoneos-version-min=8.0 -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -Wno-infinite-recursion -Wno-move -iquote /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/build/iphod.build/Release-iphoneos/iphod.build/iphod-generated-files.hmap -I/Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/build/iphod.build/Release-iphoneos/iphod.build/iphod-own-target-headers.hmap -I/Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/build/iphod.build/Release-iphoneos/iphod.build/iphod-all-target-headers.hmap -iquote /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/build/iphod.build/Release-iphoneos/iphod.build/iphod-project-headers.hmap -I/Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/build/Release-iphoneos/include -Iinclude -I/Users/paulsutcliffe/Library/Application\ Support/Fusetools/Packages/UnoCore/1.0.11/prebuilt/iOS/include -I/Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/build/iphod.build/Release-iphoneos/iphod.build/DerivedSources/arm64 -I/Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/build/iphod.build/Release-iphoneos/iphod.build/DerivedSources -F/Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/build/Release-iphoneos -F/Users/paulsutcliffe/Library/Application\ Support/Fusetools/Packages/Fuse.WebSockets/1.0.2/ios/jetfire/Jetfire-iOS/Carthage/Build/iOS -Wno-invalid-offsetof -Wno-unused-value -Wno-dangling-else -MD -MT dependencies -MF /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/build/SharedPrecompiledHeaders/iphod-Prefix-clojyemicsasibhaiifsipeklkpi/iphod-Prefix.pch.d -c /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/iphod/iphod-Prefix.pch -o /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/build/SharedPrecompiledHeaders/iphod-Prefix-clojyemicsasibhaiifsipeklkpi/iphod-Prefix.pch.pch --serialize-diagnostics /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/build/SharedPrecompiledHeaders/iphod-Prefix-clojyemicsasibhaiifsipeklkpi/iphod-Prefix.pch.dia
+Environment  LANG=en_US.US-ASCII PATH=/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/paulsutcliffe/.mix:/Applications/Postgres.app/Contents/Versions/9.4/bin:/Library/Frameworks/Python.framework/Versions/3.4/bin://Users/paulsutcliffe/.mix:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/sbin:/usr/sbin:/usr/local/mongodb/bin:/usr/X11/bin:::/Library/Tex/texbin
+BuilderIdent ProcessPCH++\ /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/build/SharedPrecompiledHeaders/iphod-Prefix-clojyemicsasibhaiifsipeklkpi/iphod-Prefix.pch.pch\ iphod/iphod-Prefix.pch\ normal\ arm64\ c++\ com.apple.compilers.llvm.clang.1_0.compiler
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/SDKSettings.plist 0 1486051586 997 33204
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/CoreServices/SystemVersion.plist 0 1488863756 415 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/8.1.0/include/module.modulemap 0 1488396191 3838 33188
+InputFile    /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/iphod/iphod-Prefix.pch 0 1495817839 363 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/SDKSettings.plist 0 1486051586 997 33204
+InputFile    /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/iphod/iphod-Prefix.pch 0 1495817839 363 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/Availability.h 0 1485953938 16257 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/AvailabilityInternal.h 0 1485390706 2638930 33188
+InputFile    /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno/Uno.h 0 1495817836 305 33188
+InputFile    /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.h 0 1495817835 300 33188
+InputFile    /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno/ObjectModel.h 0 1495817836 22860 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/cstdarg 0 1468361484 890 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/__config 0 1487207607 26112 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/8.1.0/include/stdarg.h 0 1488396191 2094 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/cstdlib 0 1468361484 5486 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/stdlib.h 0 1470096959 14088 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/_types.h 0 1474673038 2192 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/sys/_types.h 0 1475211345 3716 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/sys/cdefs.h 0 1475211338 28078 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/sys/_symbol_aliasing.h 0 1487832600 13497 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/sys/_posix_availability.h 0 1475211345 2905 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/machine/_types.h 0 1475211292 1547 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/arm/_types.h 0 1475211284 3220 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/sys/_pthread/_pthread_types.h 0 1475211361 3859 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/sys/wait.h 0 1470888306 9974 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/sys/_types/_pid_t.h 0 1475211318 1420 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/sys/_types/_id_t.h 0 1475211316 1445 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/sys/signal.h 0 1470888304 15406 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/sys/appleapiopts.h 0 1475211338 2070 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/machine/signal.h 0 1475211291 1547 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/arm/signal.h 0 1475211284 293 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/machine/_mcontext.h 0 1475211292 1450 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/arm/_mcontext.h 0 1475211285 2721 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/mach/arm/_structs.h 0 1475211285 7351 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/sys/_pthread/_pthread_attr_t.h 0 1475211361 1457 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/sys/_types/_sigaltstack.h 0 1475211319 1886 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/sys/_types/_ucontext.h 0 1475211320 2187 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/sys/_types/_sigset_t.h 0 1475211319 1428 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/sys/_types/_size_t.h 0 1475211319 1425 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/sys/_types/_uid_t.h 0 1475211320 1420 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/sys/resource.h 0 1475198551 13109 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/8.1.0/include/stdint.h 0 1491012856 23608 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/stdint.h 0 1470096367 5408 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/sys/_types/_int8_t.h 0 1475211317 1408 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/sys/_types/_int16_t.h 0 1475211316 1405 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/sys/_types/_int32_t.h 0 1475211316 1403 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/sys/_types/_int64_t.h 0 1475211317 1408 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/_types/_uint8_t.h 0 1474673038 1412 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/_types/_uint16_t.h 0 1474673038 1417 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/_types/_uint32_t.h 0 1474673038 1415 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/_types/_uint64_t.h 0 1474673038 1421 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/sys/_types/_intptr_t.h 0 1475211317 1424 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/sys/_types/_uintptr_t.h 0 1475211320 1425 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/_types/_intmax_t.h 0 1474673038 1579 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/_types/_uintmax_t.h 0 1474673038 1606 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/sys/_types/_timeval.h 0 1475211319 1562 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/machine/endian.h 0 1475211291 1613 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/arm/endian.h 0 1475211284 3038 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/sys/_endian.h 0 1475700474 6398 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/libkern/_OSByteOrder.h 0 1475211295 3571 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/libkern/arm/OSByteOrder.h 0 1475211284 2777 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/arm/arch.h 0 1475211284 1134 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/sys/_types/_os_inline.h 0 1475211318 1537 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/alloca.h 0 1474673038 1376 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/sys/_types/_ct_rune_t.h 0 1475211314 1425 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/sys/_types/_rune_t.h 0 1475211318 1412 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/sys/_types/_wchar_t.h 0 1475211320 1500 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/sys/_types/_null.h 0 1475211317 1390 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/machine/types.h 0 1475211291 1609 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/arm/types.h 0 1475211284 3759 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/sys/_types/_u_int8_t.h 0 1475211320 1416 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/sys/_types/_u_int16_t.h 0 1475211320 1422 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/sys/_types/_u_int32_t.h 0 1475211320 1419 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/sys/_types/_u_int64_t.h 0 1475211320 1424 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/sys/_types/_dev_t.h 0 1475211314 1440 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/sys/_types/_mode_t.h 0 1475211317 1418 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/exception 0 1468361484 7704 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/cstddef 0 1468361484 2575 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/8.1.0/include/stddef.h 0 1491072816 4498 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/8.1.0/include/__stddef_max_align_t.h 0 1488396191 1770 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/type_traits 0 1487207607 123619 33188
+InputFile    /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno/Memory.h 0 1495817836 7598 33188
+InputFile    /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno/_config.h 0 1495817835 1511 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/cfloat 0 1468361484 1274 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/8.1.0/include/float.h 0 1488396191 4247 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/cstring 0 1468361484 3350 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/string.h 0 1474673039 7633 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/sys/_types/_ssize_t.h 0 1475211319 1430 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/strings.h 0 1474673039 4063 33188
+InputFile    /Users/paulsutcliffe/Library/Application\ Support/Fusetools/Packages/UnoCore/1.0.11/prebuilt/iOS/include/uBase/Config.h 0 1495817821 856 33188
+InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/usr/include/TargetConditionals.h 0 1474672528 15170 33188
+InputFile    /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno/Support.h 0 1495817836 2203 33188
+InputFile    /Users/paulsutcliffe/Library/Application\ Support/Fusetools/Packages/UnoCore/1.0.11/prebuilt/iOS/include/uBase/String.h 0 1495817821 4051 33188
+InputFile    /Users/paulsutcliffe/Library/Application\ Support/Fusetools/Packages/UnoCore/1.0.11/prebuilt/iOS/include/uBase/Vector2.h 0 1495817821 4282 33188
+InputFile    /Users/paulsutcliffe/Library/Application\ Support/Fusetools/Packages/UnoCore/1.0.11/prebuilt/iOS/include/uBase/Exception.h 0 1495817821 1786 33188
+InputFile    /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Int2.h 0 1495817834 1792 33188
+InputFile    /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Object.h 0 1495817834 1386 33188
+InputFile    /Users/paulsutcliffe/Documents/F/fuse/iphod/build/iOS/Debug/include/Uno.Float2.h 0 1495817834 3288 33188

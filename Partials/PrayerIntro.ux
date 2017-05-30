@@ -1,0 +1,5 @@
+<WrapPanel ux:Class="PrayerIntro" Margin="5,0,5,0">
+  <Versical Speaker="Officiant" Text="The Lord be with you." />
+  <Versical Speaker="People" Text="And with your spirit." />
+  <Versical Speaker="Officiant" Text="Let us pray." />
+</WrapPanel>

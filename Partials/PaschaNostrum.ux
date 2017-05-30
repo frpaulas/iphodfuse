@@ -1,0 +1,23 @@
+<WrapPanel ux:Class="PaschaNostrum" Margin="5,0,5,0">
+  <Rubric>
+    During the first week of Easter, the Pascha Nostrum will be used in place of the Invitatory Psalm. It is appropriate to use this canticle throughout Eastertide.
+  </Rubric>
+  <PsalmTitle Text="Pascha Nostrum">Christ our Passover</PsalmTitle>
+  <Reference>1 Corinthians 5:7-8; Romans 6:9-11; 1 Corinthians 15:20-22</Reference>
+  <iphod.Regular>Alleluia. Christ our Passover has been sacrificed for us;</iphod.Regular>
+  <Indent>therefore let us keep the feast,</Indent>
+  <iphod.Regular>Not with the old leaven, the leaven of malice and evil,</iphod.Regular>
+  <Indent>but with the unleavened bread of sincerity and truth. Alleluia.</Indent>
+  <iphod.Regular>Christ being raised from the dead will never die again;</iphod.Regular>
+  <Indent>death no longer has dominion over him.</Indent>
+  <iphod.Regular>The death that he died, he died to sin, once for all;</iphod.Regular>
+  <Indent>but the life he lives, he lives to God.</Indent>
+  <iphod.Regular>So also consider yourselves dead to sin,</iphod.Regular>
+  <Indent>and alive to God in Jesus Christ our Lord. Alleluia.</Indent>
+  <iphod.Regular>Christ has been raised from the dead,</iphod.Regular>
+  <Indent>the first fruits of those who have fallen asleep.</Indent>
+  <iphod.Regular>For since by a man came death,</iphod.Regular>
+  <Indent>by a man has come also the resurrection of the dead.</Indent>
+  <iphod.Regular>For as in Adam all die,</iphod.Regular>
+  <Indent>so also in Christ shall all be made alive. Alleluia.</Indent>
+</WrapPanel>

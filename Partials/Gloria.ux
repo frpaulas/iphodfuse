@@ -1,0 +1,8 @@
+<Grid ux:Class="Gloria" Margin="0,10,0,10">
+  <WrapPanel>
+    <iphod.Regular>Glory to the Father, and to the Son, and to the Holy Spirit;</iphod.Regular>
+    <Indent>as it was in the beginning, is now, and ever shall be,</Indent>
+    <Indent>world without end. Amen.</Indent>
+  </WrapPanel>
+</Grid>
+

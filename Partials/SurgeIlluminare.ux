@@ -1,0 +1,28 @@
+<WrapPanel ux:Class="SurgeIlluminare" Margin="5,0,5,0">
+  <Rubric>Especially suitable for use during the season after Epiphany</Rubric>
+  <PsalmTitle Text="Surge, illuminare">Arise, shine, for your light has come</PsalmTitle>
+  <Reference>Isaiah 60:1-3, 11a, 14c, 18-19</Reference>
+  <iphod.Regular>Arise, shine, for your light has come,</iphod.Regular>
+  <Indent>and the glory of the Lord has dawned upon you.</Indent>
+  <iphod.Regular>For behold, darkness covers the land;</iphod.Regular>
+  <Indent>deep gloom enshrouds the peoples.</Indent>
+  <iphod.Regular>But over you the Lord will rise,</iphod.Regular>
+  <Indent>and his glory will appear upon you.</Indent>
+  <iphod.Regular>Nations will stream to your light,</iphod.Regular>
+  <Indent>and kings to the brightness of your dawning.</Indent>
+  <iphod.Regular>Your gates will always be open;</iphod.Regular>
+  <Indent>by day or night they will never be shut.</Indent>
+  <iphod.Regular>They will call you, The City of the Lord,</iphod.Regular>
+  <Indent>the Zion of the Holy One of Israel.</Indent>
+  <iphod.Regular>Violence will no more be heard in your land,</iphod.Regular>
+  <Indent>ruin or destruction within your borders.</Indent>
+  <iphod.Regular>You will call your walls, Salvation,</iphod.Regular>
+  <Indent>and all your portals, Praise.</Indent>
+  <iphod.Regular>The sun will no more be your light by day;</iphod.Regular>
+  <Indent>by night you will not need the brightness of the moon.</Indent>
+  <iphod.Regular>The Lord will be your everlasting light,</iphod.Regular>
+  <Indent>and your God will be your glory.</Indent>
+  <iphod.Regular>Glory to the Father, and to the Son, and to the Holy Spirit;</iphod.Regular>
+  <Indent>as it was in the beginning, is now, and ever shall be,</Indent>
+  <iphod.Regular>world without end. Amen.</iphod.Regular>
+</WrapPanel>

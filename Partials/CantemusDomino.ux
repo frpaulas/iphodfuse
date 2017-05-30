@@ -1,0 +1,35 @@
+<WrapPanel ux:Class="CantemusDomino" Margin="5,0,5,0" >
+  <Rubric>Especially suitable for use in Easter</Rubric>
+  <PsalmTitle Text="Cantemus Domino">The Song of Moses</PsalmTitle>
+  <Reference>Exodus 15:1-6, 11-13, 17-18</Reference>
+  <iphod.Regular>I will sing to the Lord, for he is lofty and uplifted</iphod.Regular>
+  <Indent>the horse and its rider has he hurled into the sea.</Indent>
+  <iphod.Regular>The Lord is my strength and my refuge</iphod.Regular>
+  <Indent>the Lord has become my Savior.</Indent>
+  <iphod.Regular>This is my God and I will praise him</iphod.Regular>
+  <Indent>the God of my people and I will exalt him.</Indent>
+  <iphod.Regular>The Lord is a mighty warrior</iphod.Regular>
+  <iphod.Regular>Yahweh is his Name</iphod.Regular>
+  <iphod.Regular>The chariots of Pharaoh and his army has he hurled into the sea</iphod.Regular>
+  <Indent>the finest of those who bear armor have been drowned in the</Indent>
+  <iphod.Regular>Red Sea</iphod.Regular>
+  <iphod.Regular>The fathomless deep has overwhelmed them</iphod.Regular>
+  <Indent>they sank into the depths like a stone.</Indent>
+  <iphod.Regular>Your right hand, O Lord, is glorious in might</iphod.Regular>
+  <Indent>your right hand, O Lord, has overthrown the enemy.</Indent>
+  <iphod.Regular>Who can be compared with you, O Lord, among the gods</iphod.Regular>
+  <Indent>who is like you, glorious in holiness,</Indent>
+  <Indent>awesome in renown, and worker of wonders?</Indent>
+  <iphod.Regular>You stretched forth your right hand</iphod.Regular>
+  <Indent>the earth swallowed them up.</Indent>
+  <iphod.Regular>With your constant love you led the people you redeemed</iphod.Regular>
+  <Indent>you brought them in safety to your holy dwelling.</Indent>
+  <iphod.Regular>You will bring them in and plant the</iphod.Regular>
+  <Indent>on the mount of your possession,</Indent>
+  <iphod.Regular>The resting-place you have made for yourself, O Lord</iphod.Regular>
+  <Indent>the sanctuary, O Lord, that your hand has established.</Indent>
+  <iphod.Regular>The Lord shall reign for ever and for ever</iphod.Regular>
+  <iphod.Regular>Glory to the Father, and to the Son, and to the Holy Spirit</iphod.Regular>
+  <Indent>as it was in the beginning, is now, and ever shall be,</Indent>
+  <Indent>world without end. Amen.</Indent>
+</WrapPanel>

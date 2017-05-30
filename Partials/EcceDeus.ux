@@ -1,0 +1,22 @@
+<WrapPanel ux:Class="EcceDeus" Margin="5,0,5,0" >
+  <Rubric>Suitable for use at any time</Rubric>
+  <PsalmTitle Text="Ecce, Deus">Surely, it is God who saves me</PsalmTitle>
+  <Reference>Isaiah 12:2-6</Reference>
+  <iphod.Regular>Surely, it is God who saves me;</iphod.Regular>
+  <Indent>I will trust in him and not be afraid.</Indent>
+  <iphod.Regular>For the Lord is my stronghold and my sure defense,</iphod.Regular>
+  <Indent>and he will be my Savior.</Indent>
+  <iphod.Regular>Therefore you shall draw water with rejoicing</iphod.Regular>
+  <Indent>from the springs of salvation.</Indent>
+  <iphod.Regular>And on that day you shall say,</iphod.Regular>
+  <Indent>Give thanks to the Lord and call upon his Name;</Indent>
+  <iphod.Regular>Make his deeds known among the peoples;</iphod.Regular>
+  <Indent>see that they remember that his Name is exalted.</Indent>
+  <iphod.Regular>Sing the praises of the Lord, for he has done great things,</iphod.Regular>
+  <Indent>and this is known in all the world.</Indent>
+  <iphod.Regular>Cry aloud, inhabitants of Zion, ring out your joy,</iphod.Regular>
+  <Indent>for the great one in the midst of you is the Holy One of Israel.</Indent>
+  <iphod.Regular>Glory to the Father, and to the Son, and to the Holy Spirit;</iphod.Regular>
+  <Indent>as it was in the beginning, is now, and ever shall be,</Indent>
+  <Indent>world without end. Amen.</Indent>
+</WrapPanel>

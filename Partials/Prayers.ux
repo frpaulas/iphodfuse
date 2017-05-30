@@ -1,0 +1,16 @@
+<WrapPanel ux:Class="Prayers" Margin="5,0,5,0">
+  <Versical Speaker="Officiant" Text="O Lord, show us your mercy;" />
+  <Versical Speaker="People" Text="And grant us your salvation." />
+  <Versical Speaker="Officiant" Text="O Lord, save our nations;" />
+  <Versical Speaker="People" Text="And guide us in the way of justice and truth." />
+  <Versical Speaker="Officiant" Text="Clothe your ministers with righteousness;" />
+  <Versical Speaker="People" Text="And make your chosen people joyful." />
+  <Versical Speaker="Officiant" Text="O Lord, save your people;" />
+  <Versical Speaker="People" Text="And bless your inheritance." />
+  <Versical Speaker="Officiant" Text="Give peace in our time, O Lord;" />
+  <Versical Speaker="People" Text="For only in you can we live in safety." />
+  <Versical Speaker="Officiant" Text="Let not the needy, O Lord, be forgotten;" />
+  <Versical Speaker="People" Text="Nor the hope of the poor be taken away." />
+  <Versical Speaker="Officiant" Text="Create in us clean hearts, O God;" />
+  <Versical Speaker="People" Text="And take not your Holy Spirit from us." />
+</WrapPanel>

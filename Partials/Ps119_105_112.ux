@@ -1,0 +1,19 @@
+<WrapPanel ux:Class="Psalm119_105-112" Margin="5,0,5,0">
+  <PsalmTitle Text="Psalm 119">Lucerna pedibus meis</PsalmTitle>
+  <Psalm1 Text="105">Your word is a lantern to my feet *</Psalm1>
+  <Psalm2>and a light upon my path.</Psalm2>
+  <Psalm1 Text="106">I have sworn and am determined *</Psalm1>
+  <Psalm2>to keep your righteous judgments.</Psalm2>
+  <Psalm1 Text="107">I am deeply troubled; *</Psalm1>
+  <Psalm2>preserve my life, O Lord, according to your word.</Psalm2>
+  <Psalm1 Text="108">Accept, O Lord, the willing tribute of my lips, *</Psalm1>
+  <Psalm2>and teach me your judgments.</Psalm2>
+  <Psalm1 Text="109">My life is always in my hand, *</Psalm1>
+  <Psalm2>yet I do not forget your law.</Psalm2>
+  <Psalm1 Text="110">The wicked have set a trap for me, *</Psalm1>
+  <Psalm2>but I have not strayed from your commandments.</Psalm2>
+  <Psalm1 Text="111">Your decrees are my inheritance for ever; *</Psalm1>
+  <Psalm2>truly, they are the joy of my heart.</Psalm2>
+  <Psalm1 Text="112">I have applied my heart to fulfill your *</Psalm1>
+  <Psalm2>for ever and to the end.</Psalm2>
+</WrapPanel>

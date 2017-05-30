@@ -1,0 +1,29 @@
+<WrapPanel ux:Class="Benedictus" Margin="5,0,5,0" >
+  <PsalmTitle Text="Benedictus">The Song of Zechariah</PsalmTitle>
+  <Reference>Luke 1:68-79</Reference>
+  <iphod.Regular>Blessed be the Lord, the God of Israel;</iphod.Regular>
+  <Indent>he has come to his people and set them free.</Indent>
+  <iphod.Regular>He has raised up for us a mighty savior,</iphod.Regular>
+  <Indent>born of the house of his servant David.</Indent>
+  <iphod.Regular>Through his holy prophets he promised of old,</iphod.Regular>
+  <iphod.Regular>that he would save us from our enemies,</iphod.Regular>
+  <Indent>from the hands of all who hate us.</Indent>
+  <iphod.Regular>He promised to show mercy to our fathers</iphod.Regular>
+  <Indent>and to remember his holy covenant.</Indent>
+  <iphod.Regular>This was the oath he swore to our father Abraham,</iphod.Regular>
+  <Indent>to set us free from the hands of our enemies,</Indent>
+  <iphod.Regular>Free to worship him without fear,</iphod.Regular>
+  <Indent>holy and righteous in his sight</Indent>
+  <Indent>all the days of our life.</Indent>
+  <iphod.Regular>You, my child, shall be called the prophet of the Most High,</iphod.Regular>
+  <Indent>for you will go before the Lord to prepare his way,</Indent>
+  <iphod.Regular>To give his people knowledge of salvation</iphod.Regular>
+  <Indent>by the forgiveness of their sins.</Indent>
+  <iphod.Regular>In the tender compassion of our God</iphod.Regular>
+  <Indent>the dawn from on high shall break upon us,</Indent>
+  <iphod.Regular>To shine on those who dwell in darkness and the shadow of death,</iphod.Regular>
+  <Indent>and to guide our feet into the way of peace.</Indent>
+  <iphod.Regular>Glory to the Father, and to the Son, and to the Holy Spirit;</iphod.Regular>
+  <Indent>as it was in the beginning, is now, and ever shall be,</Indent>
+  <Indent>world without end. Amen.</Indent>
+</WrapPanel>

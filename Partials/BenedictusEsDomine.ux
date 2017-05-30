@@ -1,0 +1,16 @@
+<WrapPanel ux:Class="BenedictusEsDomine" Margin="5,0,5,0">
+  <PsalmTitle Text="Benedictus es, Domine">A Song of Praise</PsalmTitle>
+  <Reference>Song of the Three Young Men, 29-34</Reference>
+  <iphod.Regular>Glory to you, Lord God of our fathers;</iphod.Regular>
+  <Indent>you are worthy of praise; glory to you.</Indent>
+  <iphod.Regular>Glory to you for the radiance of your holy Name;</iphod.Regular>
+  <Indent>we will praise you and highly exalt you for ever.</Indent>
+  <iphod.Regular>Glory to you in the splendor of your temple;</iphod.Regular>
+  <Indent>on the throne of your majesty, glory to you.</Indent>
+  <iphod.Regular>Glory to you, seated between the Cherubim;</iphod.Regular>
+  <Indent>we will praise you and highly exalt you for ever.</Indent>
+  <iphod.Regular>Glory to you, beholding the depths;</iphod.Regular>
+  <Indent>in the high vault of heaven, glory to you.</Indent>
+  <iphod.Regular>Glory to the Father, and to the Son, and to the Holy Spirit;</iphod.Regular>
+  <Indent>we will praise you and highly exalt you for ever.</Indent>
+</WrapPanel>

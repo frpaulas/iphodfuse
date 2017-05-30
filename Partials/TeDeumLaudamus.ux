@@ -1,0 +1,40 @@
+<WrapPanel ux:Class="TeDeumLaudamus" Margin="5,0,5,0">
+  <PsalmTitle Text="Te Deum Laudamus">We Praise You, O God</PsalmTitle>
+  <iphod.Regular>We praise you, O God,</iphod.Regular>
+  <Indent>we acclaim you as Lord;</Indent>
+  <Indent>all creation worships you,</Indent>
+  <Indent>the Father everlasting.</Indent>
+  <iphod.Regular>To you all angels, all the powers of heaven,</iphod.Regular>
+  <iphod.Regular>The cherubim and seraphim, sing in endless praise:</iphod.Regular>
+  <Indent>Holy, Holy, Holy, Lord God of power and might,</Indent>
+  <Indent>heaven and earth are full of your glory.</Indent>
+  <iphod.Regular>The glorious company of apostles praise you.</iphod.Regular>
+  <iphod.Regular>The noble fellowship of prophets praise you.</iphod.Regular>
+  <iphod.Regular>The white-robed army of martyrs praise you.</iphod.Regular>
+  <iphod.Regular>Throughout the world the holy Church acclaims you:</iphod.Regular>
+  <Indent>Father, of majesty unbounded,</Indent>
+  <Indent>your true and only Son, worthy of all praise,</Indent>
+  <Indent>the Holy Spirit, advocate and guide.</Indent>
+  <iphod.Regular>You, Christ, are the king of glory,</iphod.Regular>
+  <Indent>the eternal Son of the Father.</Indent>
+  <iphod.Regular>When you took our flesh to set us free</iphod.Regular>
+  <Indent>you humbly chose the Virgin’s womb.</Indent>
+  <iphod.Regular>You overcame the sting of death</iphod.Regular>
+  <Indent>and opened the kingdom of heaven to all believers.</Indent>
+  <iphod.Regular>You are seated at God’s right hand in glory.</iphod.Regular>
+  <Indent>We believe that you will come to be our judge.</Indent>
+  <iphod.Regular>Come then, Lord, and help your people,</iphod.Regular>
+  <Indent>bought with the price of your own blood,</Indent>
+  <Indent>and bring us with your saints</Indent>
+  <Indent>to glory everlasting.</Indent>
+  <iphod.Regular>Save your people, Lord, and bless your inheritance;</iphod.Regular>
+  <Indent>govern and uphold them now and always.</Indent>
+  <iphod.Regular>Day by day we bless you;</iphod.Regular>
+  <Indent>we praise your name forever.</Indent>
+  <iphod.Regular>Keep us today, Lord, from all sin;</iphod.Regular>
+  <Indent>have mercy on us, Lord, have mercy.</Indent>
+  <iphod.Regular>Lord, show us your love and mercy,</iphod.Regular>
+  <Indent>for we have put our trust in you.</Indent>
+  <iphod.Regular>In you, Lord, is our hope,</iphod.Regular>
+  <Indent>let us never be put to shame.</Indent>
+</WrapPanel>

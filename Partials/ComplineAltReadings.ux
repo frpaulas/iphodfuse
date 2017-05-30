@@ -1,0 +1,52 @@
+<WrapPanel ux:Class="ComplineAltReadings" Margin="5,0,5,0" >
+  <SectionTitle>Alternate Readings</SectionTitle>
+  <altReading.Button Text="Isaiah 26:3-4" />
+  <altReading.Button Text="Isaiah 30:15a" />
+  <altReading.Button Text="Matthew 6:31-34" />
+  <altReading.Button Text="2 Corinthians 4:6" />
+  <altReading.Button Text="1 Thessalonians 5:9-10" />
+  <altReading.Button Text="1 Thessalonians 5:23" />
+  <altReading.Button Text="Ephesians 4:26-27" />
+
+  <iphod.Regular>You keep him in perfect peace</iphod.Regular>
+  <Indent>whose mind is stayed on you,</Indent>
+  <Indent>because he trusts in you.</Indent>
+  <iphod.Regular>Trust in the Lord forever,</iphod.Regular>
+  <Indent>for the Lord God is an everlasting rock.</Indent>
+  <Reference>Isaiah 26:3-4</Reference>
+  <iphod.Regular>For thus said the Lord God, the Holy One of Israel,</iphod.Regular>
+  <iphod.Regular>“In returning and rest you shall be saved;</iphod.Regular>
+  <Indent>in quietness and in trust shall be your strength.”</Indent>
+  <Reference>Isaiah 30:15a</Reference>
+
+  <iphod.Regular>
+      Therefore do not be anxious, saying, ‘What shall we eat?’ or ‘What shall we drink?’ 
+      or ‘What shall we wear?’ For the Gentiles seek after all these things, and your 
+      heavenly Father knows that you need them all. But seek first the kingdom of God 
+      and his righteousness, and all these things will be added to you.
+      “Therefore do not be anxious about tomorrow, for tomorrow will be anxious for itself. 
+      Sufficient for the day is its own trouble.
+  </iphod.Regular>
+  <Reference>Matthew 6:31-34</Reference>
+  <iphod.Regular>
+      For God, who said, “Let light shine out of darkness,” has shone in our hearts to 
+      give the light of the knowledge of the glory of God in the face of Jesus Christ.
+  </iphod.Regular>
+  <Reference>2 Corinthians 4:6</Reference>
+  <iphod.Regular>
+      For God has not destined us for wrath, but to obtain salvation through our Lord 
+      Jesus Christ, who died for us so that whether we are awake or asleep we might live with him.
+  </iphod.Regular>
+  <Reference>1 Thessalonians 5:9-10</Reference>
+
+  <iphod.Regular>
+      Now may the God of peace himself sanctify you completely, and may your whole spirit 
+      and soul and body be kept blameless at the coming of our Lord Jesus Christ.
+  </iphod.Regular>
+  <Reference>1 Thessalonians 5:23</Reference>
+  <iphod.Regular>
+      Be angry and do not sin; do not let the sun go down on your anger, 
+      and give no opportunity to the devil.
+  </iphod.Regular>
+  <Reference>Ephesians 4:26-27</Reference>
+</WrapPanel>

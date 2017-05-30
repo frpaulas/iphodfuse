@@ -1,0 +1,10 @@
+<WrapPanel ux:Class="Invitatory" Margin="5,0,5,0">
+  <Versical Speaker="Officiant" Text="O Lord, open our lips;" />
+  <Versical Speaker="People" Text="And our mouth shall proclaim your praise." />
+  <Versical Speaker="Officiant" Text="O God, make speed to save us;" />
+  <Versical Speaker="People" Text="O Lord, make haste to help us." />
+  <Versical Speaker="Officiant" Text="Glory to the Father, and to the Son, and to the Holy Spirit;" />
+  <Versical Speaker="People" Text="As it was in the beginning, is now, and ever shall be, world without end. Amen." />
+  <Versical Speaker="Officiant" Text="Praise the Lord." />
+  <Versical Speaker="People" Text="The Lord’s name be praised." />
+</WrapPanel>

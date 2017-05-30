@@ -1,0 +1,18 @@
+<WrapPanel ux:Class="MagnaEtMirabilia" Margin="5,0,5,0">
+  <Rubric>Especially suitable for use in Advent and Easter</Rubric>
+  <PsalmTitle Text="Magna et mirabilia">The Song of the Redeemed</PsalmTitle>
+  <Reference>Revelation 15:3-4</Reference>
+  <iphod.Regular>O ruler of the universe, Lord God,</iphod.Regular>
+  <Indent>great deeds are they that you have done,</Indent>
+  <Indent>surpassing human understanding.</Indent>
+  <iphod.Regular>Your ways are ways of righteousness and truth,</iphod.Regular>
+  <Indent>O King of all the ages.</Indent>
+  <iphod.Regular>Who can fail to do you homage, Lord,</iphod.Regular>
+  <Indent>and sing the praises of your Name?</Indent>
+  <Indent>for you only are the Holy One.</Indent>
+  <iphod.Regular>All nations will draw near and fall down before you,</iphod.Regular>
+  <Indent>because your just and holy works have been revealed.</Indent>
+  <iphod.Regular>Glory to the Father, and to the Son, and to the Holy Spirit;</iphod.Regular>
+  <Indent>as it was in the beginning, is now, and ever shall be, world</Indent>
+  <Indent>without end. Amen.</Indent>
+</WrapPanel>

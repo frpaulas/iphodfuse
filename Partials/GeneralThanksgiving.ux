@@ -1,0 +1,22 @@
+<WrapPanel ux:Class="GeneralThanksgiving" Margin="5,0,5,0" >
+  <SectionTitle>The General Thanksgiving</SectionTitle>
+  <Rubric>Officiant and People</Rubric>
+  <iphod.Regular>Almighty God, Father of all mercies,</iphod.Regular>
+  <iphod.Regular>we your unworthy servants give you humble thanks</iphod.Regular>
+  <iphod.Regular>for all your goodness and loving-kindness</iphod.Regular>
+  <Indent>to us and to all whom you have made.</Indent>
+  <iphod.Regular>We bless you for our creation, preservation,</iphod.Regular>
+  <Indent>and all the blessings of this life;</Indent>
+  <iphod.Regular>but above all for your immeasurable love</iphod.Regular>
+  <iphod.Regular>in the redemption of the world by our Lord Jesus Christ;</iphod.Regular>
+  <iphod.Regular>for the means of grace, and for the hope of glory.</iphod.Regular>
+  <iphod.Regular>And, we pray, give us such an awareness of your mercies,</iphod.Regular>
+  <iphod.Regular>that with truly thankful hearts we may show forth your praise,</iphod.Regular>
+  <iphod.Regular>not only with our lips, but in our lives,</iphod.Regular>
+  <iphod.Regular>by giving up our selves to your service,</iphod.Regular>
+  <iphod.Regular>and by walking before you</iphod.Regular>
+  <Indent>in holiness and righteousness all our days;</Indent>
+  <iphod.Regular>through Jesus Christ our Lord,</iphod.Regular>
+  <iphod.Regular>to whom, with you and the Holy Spirit,</iphod.Regular>
+  <iphod.Regular>be honor and glory throughout all ages. Amen.</iphod.Regular>
+</WrapPanel>

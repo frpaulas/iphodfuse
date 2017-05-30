@@ -1,0 +1,11 @@
+<WrapPanel ux:Class="MPcollectForSunday" Margin="5,0,5,0" >
+  <SectionTitle>A Collect for Strength to Await Christ’s Return (Sunday)</SectionTitle>
+  <iphod.Regular>
+    O God our King, by the resurrection of your Son Jesus Christ on the first day of the week, 
+    you conquered sin, put death to flight, and gave us the hope of everlasting life: 
+    Redeem all our days by this victory; forgive our sins, banish our fears, make us 
+    bold to praise you and to do your will; and steel us to wait for the consummation 
+    of your kingdom on the last great Day; through the same Jesus Christ our Lord.
+  </iphod.Regular>
+  <iphod.Italic>Amen</iphod.Italic>
+</WrapPanel>

@@ -1,0 +1,63 @@
+<iphod.Page ux:Class="MorningPrayerPage">
+  <Router ux:Dependency="router" />
+  <JavaScript File="../Modules/Helpers.js" />
+  <JavaScript File="MorningPrayerPage.js" />
+  <Activated>
+    <Callback Handler="{setup}" />
+  </Activated>
+  <ScrollView>
+    <StackPanel>
+      <iphod.Title>Morning Prayer</iphod.Title>
+      <iphod.Title FontSize="12">{title}</iphod.Title>
+      <Rubric>
+        The Officiant may begin Morning Prayer by reading an sentence of Scripture found on pages 17-19 or another appropriate Scripture. The Confession of Sin may be said, or the Office may continue with “O Lord, open our lips.”
+      </Rubric>
+      <SectionTitle>Opening Sentences of Scripture</SectionTitle>
+      <iphod.Regular>{openingSentence.vss}</iphod.Regular>
+      <Reference>{openingSentence.ref}</Reference>
+      <Confession />
+      <SectionTitle>The Invitatory</SectionTitle>
+      <Rubric>All stand</Rubric>
+      <Invitatory />
+      <Rubric>
+        Then follows the Venite. Alternatively, the Jubilate may be used.
+These seasonal antiphons may be sung or said before and after the Invitatory Psalm.
+      </Rubric>
+      <RubricBlack>{nameOfSeason}</RubricBlack>
+      <iphod.Regular>{antiphon}</iphod.Regular>
+      <Match Value="{invitatoryCanticle}" >
+        <Case String="Jubilate"><Jubilate /></Case>
+        <Case String="Venite"><Venite /></Case>
+        <Case String="VeniteLent"><VeniteLent /></Case>
+        <Case String="PaschaNostrum"><PaschaNostrum /></Case>
+      </Match>
+      <Rubric>Then follows</Rubric>
+      <SectionTitle>The Psalm or Psalms Appointed</SectionTitle>
+      <Each Items="{psalms}" >
+        <PsalmTitle Text="{name}">{title}</PsalmTitle>
+        <Each Items="{vss}">
+          <Psalm1 Text="{number}">{first}</Psalm1>
+          <Psalm2>{second}</Psalm2>
+        </Each>
+      </Each>
+
+      <Rubric>At the end of the Psalms is sung or said</Rubric>
+      <Gloria />
+      <SectionTitle>The Lessons</SectionTitle>
+
+      <Rubric>A citation giving chapter and verse may be added.</Rubric>
+      <Each Items="{firstReading}">
+        <PsalmTitle Text="{title}" >CHAP VSS... {chap}:{vsFrom}-{vsTo}</PsalmTitle>
+      </Each>
+      <Rubric>After each Lesson the Reader may say</Rubric>
+      <TheWordOfTheLord />
+      <Rubric>Or the Reader may say</Rubric>
+      <Versical Speaker="" Text="Here ends the Reading." />
+      <Rubric>
+        The following Canticles are normally sung or said aftereach of the lessons. The Officiant may also use a Canticle drawn from those on pages 35-43 or an appropriate song of praise.
+      </Rubric>
+
+    </StackPanel>
+  </ScrollView>
+
+</iphod.Page>

@@ -1,0 +1,12 @@
+<WrapPanel ux:Class="PhosHilaron" Margin="5,0,5,0">
+  <PsalmTitle Text="Phos hilaron">O Gladsome Light</PsalmTitle>
+  <iphod.Regular>O gladsome light,</iphod.Regular>
+  <iphod.Regular>pure brightness of the ever-living Father in heaven,</iphod.Regular>
+  <iphod.Regular>O Jesus Christ, holy and blessed!</iphod.Regular>
+  <iphod.Regular>Now as we come to the setting of the sun,</iphod.Regular>
+  <iphod.Regular>and our eyes behold the vesper light,</iphod.Regular>
+  <iphod.Regular>we sing praises to God: the Father, the Son, and the Holy Spirit.</iphod.Regular>
+  <iphod.Regular>You are worthy at all times to be praised by happy voices,</iphod.Regular>
+  <iphod.Regular>O Son of God, O Giver of Life,</iphod.Regular>
+  <iphod.Regular>and to be glorified through all the worlds.</iphod.Regular>
+</WrapPanel>

@@ -1,0 +1,7 @@
+<Text ux:Class="Psalm" Margin="140,0,5,0">
+  <JavaScript File="Psalm.js" />
+  <string ux:Property="StartVs" />
+  <string ux:Property="EndVs" />
+  <string ux:Property="Number" />
+  <Versical Speaker="{name}" Text="{ReadProperty StartVs}" />
+</Text>

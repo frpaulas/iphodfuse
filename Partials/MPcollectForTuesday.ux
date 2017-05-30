@@ -1,0 +1,11 @@
+<WrapPanel ux:Class="MPcollectForTuesday" Margin="5,0,5,0" >
+  <SectionTitle>A Collect for Peace (Tuesday)</SectionTitle>
+  <iphod.Regular>
+    O God, the author of peace and lover of concord, to know you 
+    is eternal life and to serve you is perfect freedom: Defend us, 
+    your humble servants, in all assaults of our enemies; that we, 
+    surely trusting in your defense, may not fear the power of 
+    any adversaries, through the might of Jesus Christ our Lord.
+  </iphod.Regular>
+  <iphod.Italic>Amen</iphod.Italic>
+</WrapPanel>

@@ -1,0 +1,5 @@
+<WrapPanel ux:Class="Mercy3" Margin="5,0,5,0">
+  <iphod.Regular>Lord, have mercy [upon us].</iphod.Regular>
+  <iphod.Italic>Christ, have mercy [upon us].</iphod.Italic>
+  <iphod.Regular>Lord, have mercy [upon us].</iphod.Regular>
+</WrapPanel>

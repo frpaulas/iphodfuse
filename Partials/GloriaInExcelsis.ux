@@ -1,0 +1,21 @@
+<WrapPanel ux:Class="GloriaInExcelsis" Margin="5,0,5,0" >
+  <SectionTitle>Gloria in Excelsis</SectionTitle>
+  <iphod.Regular>Glory to God in the highest,</iphod.Regular>
+  <Indent>and peace to his people on earth.</Indent>
+  <iphod.Regular>Lord God, heavenly King,</iphod.Regular>
+  <Indent>almighty God and Father,</Indent>
+  <Indent>we worship you, we give you thanks,</Indent>
+  <Indent>we praise you for your glory.</Indent>
+  <iphod.Regular>Lord Jesus Christ, only Son of the Father,</iphod.Regular>
+  <iphod.Regular>Lord God, Lamb of God,</iphod.Regular>
+  <Indent>you take away the sin of the world:</Indent>
+  <Indent>have mercy on us;</Indent>
+  <Indent>you are seated at the right hand of the Father:</Indent>
+  <Indent>receive our prayer.</Indent>
+  <iphod.Regular>For you alone are the Holy One,</iphod.Regular>
+  <Indent>you alone are the Lord,</Indent>
+  <Indent>you alone are the Most High,</Indent>
+  <iphod.Regular>Jesus Christ,</iphod.Regular>
+  <Indent>with the Holy Spirit,</Indent>
+  <Indent>in the glory of God the Father. Amen.</Indent>
+</WrapPanel>

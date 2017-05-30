@@ -1,0 +1,10 @@
+<WrapPanel ux:Class="LordsPrayerTraditional" Margin="5,0,5,0">
+  <iphod.Regular>Our Father, who art in heaven, hallowed be thy Name.</iphod.Regular>
+  <iphod.Regular>Thy kingdom come, thy will be done, on earth as it is in heaven.</iphod.Regular>
+  <iphod.Regular>Give us this day our daily bread.</iphod.Regular>
+  <iphod.Regular>And forgive us our trespasses, as we forgive those who trespass</iphod.Regular>
+  <Indent>against us.</Indent>
+  <iphod.Regular>And lead us not into temptation, but deliver us from evil.</iphod.Regular>
+  <iphod.Regular>For thine is the kingdom, and the power, and the glory,</iphod.Regular>
+  <Indent>forever and ever. Amen.</Indent>
+</WrapPanel>

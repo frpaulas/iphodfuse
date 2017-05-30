@@ -1,0 +1,12 @@
+<WrapPanel ux:Class="PrayerOfChrysostom" Margin="15,0,5,0" >
+  <SectionTitle>A Prayer of St. John Chrysostom</SectionTitle>
+  <iphod.Regular>
+  Almighty God, you have given us grace at this time with one accord
+  to make our common supplications to you; and you have promised 
+  through your well beloved Son that when two or three are gathered
+  together in his name you will be in the midst of them: Fulfill now, O
+  Lord, our desires and petitions as may be best for us; granting us in
+  this world knowledge of your truth, and in the age to come life
+  everlasting. Amen.
+  </iphod.Regular>
+</WrapPanel>

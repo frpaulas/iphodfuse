@@ -1,0 +1,23 @@
+<WrapPanel ux:Class="DeusMisereatur" Margin="5,0,5,0" >
+  <Rubric>Suitable for use at any time</Rubric>
+  <PsalmTitle Text="Deus misereatur">May God be Merciful to us and Bless us</PsalmTitle>
+  <Reference>Psalm 67</Reference>
+  <iphod.Regular>May God be merciful to us and bless us,</iphod.Regular>
+  <Indent>show us the light of his countenance and come to us.</Indent>
+  <iphod.Regular>Let your ways be known upon earth,</iphod.Regular>
+  <Indent>your saving health among all nations.</Indent>
+  <iphod.Regular>Let the peoples praise you, O God;</iphod.Regular>
+  <Indent>let all the peoples praise you.</Indent>
+  <iphod.Regular>Let the nations be glad and sing for joy,</iphod.Regular>
+  <Indent>for you judge the peoples with equity and guide all the nations</Indent>
+  <Indent>upon earth.</Indent>
+  <iphod.Regular>Let the peoples praise you, O God;</iphod.Regular>
+  <Indent>let all the peoples praise you.</Indent>
+  <iphod.Regular>The earth has brought forth her increase;</iphod.Regular>
+  <Indent>may God, our own God, give us his blessing.</Indent>
+  <iphod.Regular>May God give us his blessing,</iphod.Regular>
+  <Indent>and may all the ends of the earth stand in awe of him.</Indent>
+  <iphod.Regular>Glory to the Father, and to the Son, and to the Holy Spirit;</iphod.Regular>
+  <Indent>as it was in the beginning, is now, and ever shall be,</Indent>
+  <Indent>world without end. Amen.</Indent>
+</WrapPanel>

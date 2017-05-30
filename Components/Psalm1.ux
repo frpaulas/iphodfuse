@@ -1,0 +1,4 @@
+<iphod.Regular ux:Class="Psalm1" Margin="40,0,5,0">
+  <string ux:Property="Text" />
+  <iphod.Regular Value="{ReadProperty Text}" Color="Red" TextAlignment="Left" Margin="-40,0,0,0"/>
+</iphod.Regular>

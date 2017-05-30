@@ -1,0 +1,36 @@
+<WrapPanel ux:Class="KyriePantokrator" Margin="5,0,5,0">
+  <Rubric>Especially suitable for use during Lent</Rubric>
+  <PsalmTitle Text="Kyrie Pantokrator">A Song of Penitence</PsalmTitle>
+  <Reference>Prayer of Manasseh, 1-2, 4, 6-7, 11-15</Reference>
+  <iphod.Regular>O Lord and Ruler of the hosts of heaven,</iphod.Regular>
+  <Indent>God of Abraham, Isaac, and Jacob,</Indent>
+  <Indent>and of all their righteous offspring:</Indent>
+  <iphod.Regular>You made the heavens and the earth,</iphod.Regular>
+  <Indent>with all their vast array.</Indent>
+  <iphod.Regular>All things quake with fear at your presence;</iphod.Regular>
+  <Indent>they tremble because of your power.</Indent>
+  <iphod.Regular>But your merciful promise is beyond all measure;</iphod.Regular>
+  <Indent>it surpasses all that our minds can fathom.</Indent>
+  <iphod.Regular>O Lord, you are full of compassion,</iphod.Regular>
+  <Indent>long-suffering, and abounding in mercy.</Indent>
+  <iphod.Regular>You hold back your hand;</iphod.Regular>
+  <Indent>you do not punish as we deserve.</Indent>
+  <iphod.Regular>In your great goodness, Lord,</iphod.Regular>
+  <Indent>you have promised forgiveness to sinners,</Indent>
+  <Indent>that they may repent of their sin and be saved.</Indent>
+  <iphod.Regular>And now, O Lord, I bend the knee of my heart,</iphod.Regular>
+  <Indent>and make my appeal, sure of your gracious goodness.</Indent>
+  <iphod.Regular>I have sinned, O Lord, I have sinned,</iphod.Regular>
+  <Indent>and I know my wickedness only too well.</Indent>
+  <iphod.Regular>Therefore I make this prayer to you:</iphod.Regular>
+  <iphod.Regular>Forgive me, Lord, forgive me.</iphod.Regular>
+  <iphod.Regular>Do not let me perish in my sin,</iphod.Regular>
+  <Indent>nor condemn me to the depths of the earth.</Indent>
+  <iphod.Regular>For you, O Lord, are the God of those who repent,</iphod.Regular>
+  <Indent>and in me you will show forth your goodness.</Indent>
+  <iphod.Regular>Unworthy as I am, you will save me,</iphod.Regular>
+  <Indent>in accordance with your great mercy,</Indent>
+  <Indent>and I will praise you without ceasing all the days of my life.</Indent>
+  <iphod.Regular>For all the powers of heaven sing your praises,</iphod.Regular>
+  <Indent>and yours is the glory to ages of ages. Amen.</Indent>
+</WrapPanel>

@@ -1,0 +1,9 @@
+<WrapPanel ux:Class="LordsPrayerContemporary" Margin="5,0,5,0">
+  <iphod.Regular>Our Father in heaven, hallowed be your Name.</iphod.Regular>
+  <iphod.Regular>Your kingdom come, your will be done, on earth as it is in heaven.</iphod.Regular>
+  <iphod.Regular>Give us today our daily bread.</iphod.Regular>
+  <iphod.Regular>And forgive us our sins as we forgive those who sin against us.</iphod.Regular>
+  <iphod.Regular>Save us from the time of trial, and deliver us from evil.</iphod.Regular>
+  <iphod.Regular>For the kingdom, the power, and the glory are yours,</iphod.Regular>
+  <Indent>now and forever. Amen</Indent>
+</WrapPanel>

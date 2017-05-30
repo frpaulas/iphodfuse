@@ -1,0 +1,10 @@
+<WrapPanel ux:Class="EPcollectForSaturday" Margin="5,0,5,0" >
+<SectionTitle>A Collect for the Eve of Worship (Saturday)</SectionTitle>
+  <iphod.Regular>
+    O God, the source of eternal light: Shed forth your unending day
+    upon us who watch for you, that our lips may praise you, our lives
+    may bless you, and our worship on the morrow give you glory;
+    through Jesus Christ our Lord.
+  </iphod.Regular>
+  <iphod.Italic>Amen</iphod.Italic>
+</WrapPanel>

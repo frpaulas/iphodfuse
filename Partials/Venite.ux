@@ -1,0 +1,18 @@
+<WrapPanel ux:Class="Venite" Margin="5,0,5,0">
+  <PsalmTitle Text="Venite">O Come</PsalmTitle>
+  <Reference>Psalm 95:1-7; 8-11</Reference>
+  <iphod.Regular>O come, let us sing to the Lord;</iphod.Regular>
+  <iphod.Regular>Let us make a joyful noise to the rock of our salvation!</iphod.Regular>
+  <iphod.Regular>Let us come into his presence with thanksgiving;</iphod.Regular>
+  <iphod.Regular>Let us make a joyful noise to him with songs of praise!</iphod.Regular>
+  <iphod.Regular>For the Lord is a great God, and a great King above all gods.</iphod.Regular>
+  <iphod.Regular>In his hand are the depths of the earth;</iphod.Regular>
+  <Indent>the heights of the mountains are his also.</Indent>
+  <iphod.Regular>The sea is his, for he made it,</iphod.Regular>
+  <Indent>and his hands formed the dry land.</Indent>
+  <iphod.Regular>O come, let us worship and bow down;</iphod.Regular>
+  <Indent>Let us kneel before the Lord, our Maker!</Indent>
+  <iphod.Regular>For he is our God, and we are the people of his pasture,</iphod.Regular>
+  <Indent>and the sheep of his hand.</Indent>
+  <iphod.Regular>O, that today you would hearken to his voice!</iphod.Regular>
+</WrapPanel>

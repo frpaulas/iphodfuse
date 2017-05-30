@@ -1,0 +1,186 @@
+<iphod.Page ux:Class="ComplinePage">
+  <Router ux:Dependency="router" />
+  <JavaScript File="../Modules/Helpers.js" />
+  <JavaScript File="ComplinePage.js" />
+
+  <DockPanel>
+    <iphod.Button Text="Back" Clicked="{back}" Margin="10" Padding="10" Dock="Bottom" />
+    <ScrollView>
+      <StackPanel>
+        <iphod.Title>Compline</iphod.Title>
+        <Rubric>The Officiant begins</Rubric>
+        <Versical Speaker="" Text="Our help is in the Name of the Lord;" />
+        <Versical Speaker="People" Text="The maker of heaven and earth." />
+        <Rubric>The Officiant continues</Rubric> 
+        <iphod.Regular>Let us humbly confess our sins to Almighty God.</iphod.Regular>
+        <Rubric>Silence may be kept. The Officiant and People then say</Rubric>
+        <iphod.Regular>Almighty God and Father, we confess to you,</iphod.Regular>
+        <iphod.Regular>to one another, and to the whole company of heaven,</iphod.Regular>
+        <iphod.Regular>that we have sinned, through our own fault,</iphod.Regular>
+        <iphod.Regular>in thought, and word, and deed,</iphod.Regular>
+        <iphod.Regular>and in what we have left undone.</iphod.Regular>
+        <iphod.Regular>For the sake of your Son our Lord Jesus Christ,</iphod.Regular>
+        <iphod.Regular>have mercy upon us, forgive us all our sins,</iphod.Regular>
+        <iphod.Regular>and by the power of your Holy Spirit</iphod.Regular>
+        <iphod.Regular>raise us up to serve you in newness of life,</iphod.Regular>
+        <iphod.Regular>to the glory of your Name.</iphod.Regular>
+        <iphod.Italic>Amen.</iphod.Italic>
+        <Rubric>The Officiant alone says</Rubric>
+        <iphod.Regular>May Almighty God grant us forgiveness of our sins,</iphod.Regular>
+        <iphod.Regular>and the grace and comfort of his Holy Spirit.</iphod.Regular>
+        <iphod.Italic>Amen.</iphod.Italic>
+
+        <Versical Speaker="Officiant" Text="O God, make speed to save us." />
+        <Versical Speaker="People" Text="O Lord, make haste to help us." />
+        <Versical Speaker="Officiant" Text="Glory to the Father, and to the Son, and to the Holy Spirit;" />
+        <Versical Speaker="People" Text="as it was in the beginning, is now, and ever shall be, world without end. Amen." />
+
+        <Rubric>Except in Lent, add </Rubric><iphod.Regular>Alleluia</iphod.Regular>
+
+        <Rubric>
+          One or more of the following Psalms are sung or said. Traditionally three are used: 4, 91, and 134. Other suitable selections from the Psalms may be substituted.
+        </Rubric> 
+        <iphod.Button Text="Psalm 4" Clicked="{psalm4}"  Margin="1" Padding="10" Dock="Bottom" />
+        <iphod.Button Text="Psalm 31:1-5" Clicked="{psalm31}"  Margin="1" Padding="10" Dock="Bottom" />
+        <iphod.Button Text="Psalm 91" Clicked="{psalm91}"  Margin="1" Padding="10" Dock="Bottom" />
+        <iphod.Button Text="Psalm 134" Clicked="{psalm134}"  Margin="1" Padding="10" Dock="Bottom" />
+        <PsalmTitle Text="{psName}">{psTitle}</PsalmTitle>
+        <Each Items="{vss}">
+          <Psalm1 Text="{number}">{first}</Psalm1>
+          <Psalm2>{second}</Psalm2>
+        </Each>
+        <Gloria />  
+        <Rubric>One of the following, or some other suitable passage of Scripture, is read</Rubric>
+
+        <iphod.Regular Margin="2,0,2,0"> 
+          You, O Lord, are in the midst of us, and we are called by your Name: do not forsake us.
+        </iphod.Regular>
+        <Reference>Jeremiah 14:9 </Reference>
+  
+        <iphod.Regular Margin="2,0,2,0"> 
+          Come to me, all who labor and are heavy-laden, and I will give you rest. Take my yoke upon you, and learn from me, for I am gentle and lowly in heart, and you will find rest for your souls. For my yoke is easy, and my burden is light. 
+        </iphod.Regular>
+        <Reference>Matthew 11:28-30</Reference>
+  
+        <iphod.Regular Margin="2,0,2,0"> 
+          Now may the God of peace who brought again from the dead our Lord Jesus, the great shepherd of the sheep, by the blood of the eternal covenant, equip you with everything good that you may do his will, working in us that which is pleasing in his sight, through Jesus Christ, to whom be glory forever and ever. Amen.
+        </iphod.Regular>
+        <Reference>Hebrews 13:20-21</Reference>
+  
+        <iphod.Regular Margin="2,0,2,0"> 
+          Be sober-minded, be watchful. Your adversary the devil prowls around like a roaring lion, seeking someone to devour. Resist him, firm in your faith. 
+        </iphod.Regular>
+        <Reference>1 Peter 5:8-9a</Reference>
+  
+        <Rubric>At the end of the reading is said</Rubric>
+        <Versical Speaker="" Text="The Word of the Lord" />
+        <Versical Speaker="People" Text="Thanks be to God." />
+
+        <Rubric>A period of silence may follow. A suitable hymn may be sung</Rubric>
+
+        <Versical Speaker="Officiant" Text="Into your hands, O Lord, I commend my spirit;" />
+        <Versical Speaker="People" Text="For you have redeemed me, O Lord, O God of truth." />
+        <Versical Speaker="Officiant" Text="Keep me as the apple of your eye;" />
+        <Versical Speaker="People" Text="Hide me under the shadow of your wings." />
+
+        <iphod.Regular>Lord, have mercy [upon us].</iphod.Regular>
+        <iphod.Italic>Christ, have mercy [upon us].</iphod.Italic>
+        <iphod.Regular>Lord, have mercy [upon us].</iphod.Regular>
+
+        <Rubric>Officient and People</Rubric>
+        <LordsPrayerTraditional />
+        <Rubric>or this</Rubric>
+        <LordsPrayerContemporary />
+
+        <Versical Speaker="Officiant" Text="O Lord, hear our prayer;" />
+        <Versical Speaker="People" Text="And let our cry come to you." />
+        <Versical Speaker="Officiant" Text="Let us pray." />
+
+        <Rubric>The Officiant then says one or more of the following Collects. Other appropriate Collects may also be used.</Rubric>
+
+        <iphod.Regular>
+          Visit this place, O Lord, and drive far from it all snares of the enemy; let your holy angels dwell with us to preserve us in peace; and let your blessing be upon us always; through Jesus Christ our Lord.
+        </iphod.Regular>
+        <iphod.Italic>Amen</iphod.Italic>
+
+        <iphod.Regular>
+          Lighten our darkness, we beseech you, O Lord; and by your great mercy defend us from all perils and dangers of this night; for the love of your only Son, our Savior Jesus Christ.
+        </iphod.Regular>
+        <iphod.Italic>Amen</iphod.Italic>
+
+        <iphod.Regular>
+          Be present, O merciful God, and protect us through the hours of this night, so that we who are wearied by the changes and chances of this life may rest in your eternal changelessness; through Jesus Christ our Lord. 
+        </iphod.Regular>
+        <iphod.Italic>Amen</iphod.Italic>
+
+        <iphod.Regular>
+          Look down, O Lord, from your heavenly throne, illumine this night with your celestial brightness, and from the children of light banish the deeds of darkness; through Jesus Christ our Lord. 
+        </iphod.Regular>
+        <iphod.Italic>Amen</iphod.Italic>
+
+        <iphod.Regular>A Collect for Saturdays</iphod.Regular>
+        <iphod.Regular>
+          We give you thanks, O God, for revealing your Son Jesus Christ to us by the light of his resurrection: Grant that as we sing your glory at the close of this day, our joy may abound in the morning as we celebrate the Paschal mystery; through Jesus Christ our Lord.
+        </iphod.Regular><iphod.Italic>Amen</iphod.Italic>
+
+        <Rubric>One of the following prayers may be added</Rubric>
+
+        <iphod.Regular>
+          Keep watch, dear Lord, with those who work, or watch, or weep this night, and give your angels charge over those who sleep. Tend the sick, Lord Christ; give rest to the weary, bless the dying, soothe the suffering, pity the afflicted, shield the joyous; and all for your love’s sake. 
+        </iphod.Regular><iphod.Italic>Amen</iphod.Italic>
+
+        <Rubric>or this</Rubric>
+
+        <iphod.Regular>
+          O God, your unfailing providence sustains the world we live in and the life we live: Watch over those, both night and day, who work while others sleep, and grant that we may never forget that our common life depends upon each other’s toil; through Jesus Christ our Lord. Amen. 
+        </iphod.Regular><iphod.Italic>Amen</iphod.Italic>
+
+        <Rubric>Silence may be kept and free intercessions and thanksgivings may be offered.</Rubric>
+        <Rubric>The Officiant and People say or sing the Song of Simeon (Luke 2:29-32) with this Antiphon</Rubric>
+
+        <iphod.Regular>Guide us waking, O Lord, and guard us sleeping; that awake,</iphod.Regular>
+        <iphod.Regular>we may watch with Christ, and asleep we may rest in peace.</iphod.Regular>
+        <Rubric>In Easter Season, add </Rubric> <iphod.Italic>Alleluia, alleluia, alleluia.</iphod.Italic>
+        <iphod.Regular>Lord, now let your servant depart in peace,</iphod.Regular>
+        <Indent>according to your word.</Indent>
+        <iphod.Regular>For my eyes have seen your salvation,</iphod.Regular>
+        <Indent>which you have prepared before the face of all people;</Indent>
+        <iphod.Regular>to be a light to lighten the Gentiles,</iphod.Regular>
+        <Indent>and to be the glory of your people Israel.</Indent>
+        <iphod.Regular>Glory to the Father, and to the Son, and to the Holy Spirit;</iphod.Regular>
+        <Indent>as it was in the beginning, is now, and ever shall be, world</Indent>
+        <Indent>without end. Amen.</Indent>
+        <iphod.Regular>Guide us waking, O Lord, and guard us sleeping; that awake</iphod.Regular>
+        <iphod.Regular>we may watch with Christ, and asleep we may rest in peace.</iphod.Regular>
+        <Rubric>In Easter Season, add </Rubric> <iphod.Italic>Alleluia, alleluia, alleluia.</iphod.Italic>
+        <Versical Speaker="Officiant" Text="Let us bless the Lord." />
+        <Versical Speaker="People" Text="Thanks be to God." />
+
+        <Rubric>The Officiant concludes with the following</Rubric>
+        <iphod.Regular>The Lord Almighty grant us a peaceful night and a perfect end. Amen.</iphod.Regular>
+        <Rubric>Or this</Rubric>
+        <iphod.Regular>The almighty and merciful Lord, Father, Son, and Holy Spirit,</iphod.Regular>
+        <iphod.Regular>bless us and keep us, this night and evermore. Amen.</iphod.Regular>
+
+        <SectionTitle Visibility="{directiveVisibility}" Margin="0,20,0,0">Additional Directions</SectionTitle>
+        <Text Visibility="{directiveVisibility}" TextWrapping="Wrap">
+          For those saying Compline every day, particularly in families or other communities, additional short Scriptural readings may be desired. Some appropriate readings include:
+        </Text>
+        <Text Visibility="{directiveVisibility}" Margin="20,10,0,0">Isaiah 26:3-4</Text>
+        <Text Visibility="{directiveVisibility}" Margin="20,0,0,0">Isaiah 30:15a</Text>
+        <Text Visibility="{directiveVisibility}" Margin="20,0,0,0">Matthew 6:31-34</Text>
+        <Text Visibility="{directiveVisibility}" Margin="20,0,0,0">2 Corinthians 4:6</Text>
+        <Text Visibility="{directiveVisibility}" Margin="20,0,0,0">1 Thessalonians 5:9-10</Text>
+        <Text Visibility="{directiveVisibility}" Margin="20,0,0,0">1 Thessalonians 5:23</Text>
+        <Text Visibility="{directiveVisibility}" Margin="20,0,0,0">Ephesians 4:26-27</Text>
+        <Text Visibility="{directiveVisibility}" Margin="0,10,0,0">
+          If desired, either version of the Lord’s Prayer may conclude with the phrase, “deliver us from evil,” omitting the doxology.
+        </Text>
+
+        <iphod.Button Text="Additional Directives" Clicked="{directives}"  Margin="1" Padding="10" Dock="Bottom" />
+
+
+      </StackPanel>
+    </ScrollView>
+  </DockPanel>
+</iphod.Page>

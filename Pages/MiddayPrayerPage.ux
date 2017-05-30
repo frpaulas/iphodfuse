@@ -1,0 +1,102 @@
+<iphod.Page ux:Class="MiddayPrayerPage">
+  <Router ux:Dependency="router" />
+  <JavaScript File="../Modules/Helpers.js" />
+  <JavaScript File="MiddayPrayerPage.js" />
+
+  <ScrollView>
+    <StackPanel>
+      <SwipeGesture ux:Name='swipe' Length="200" Direction="Right" Type="Simple" />
+      <Swiped Source="swipe" ><Callback Handler="{back}" /></Swiped>
+      <iphod.Title>Midday Prayer</iphod.Title>
+      <Versical Speaker="Officiant" Text="O God, make speed to save us." />
+      <Versical Speaker="People" Text="O Lord, make haste to help us." />
+      <Versical Speaker="Officiant" Text="Glory to the Father, and to the Son, and to the Holy Spirit;" />
+      <Versical Speaker="People" Text="as it was in the beginning, is now, and ever shall be, world without end. Amen." />
+      <Rubric>Except in Lent, add</Rubric>
+      <Versical Speaker="" Text="Alleluia" />
+      <Rubric>One or more of the following Psalms is sung or said. Other suitable selections include Psalms 19, 67, one or more sections of Psalm 119, or a selection from Psalms 120 through 133.</Rubric> 
+      <iphod.Button Text="Psalm 119" Clicked="{psalm119}"  Margin="1" Padding="10" Dock="Bottom" />
+      <iphod.Button Text="Psalm 121" Clicked="{psalm121}"  Margin="1" Padding="10" Dock="Bottom" />
+      <iphod.Button Text="Psalm 124" Clicked="{psalm124}"  Margin="1" Padding="10" Dock="Bottom" />
+      <iphod.Button Text="Psalm 126" Clicked="{psalm126}"  Margin="1" Padding="10" Dock="Bottom" />
+      <PsalmTitle Text="{psName}">{psTitle}</PsalmTitle>
+      <Each Items="{vss}">
+        <Psalm1 Text="{number}">{first}</Psalm1>
+        <Psalm2>{second}</Psalm2>
+      </Each>
+      <Gloria />  
+      <Rubric>One of the following, or some other suitable passage of Scripture, is read</Rubric>
+      <iphod.Regular Margin="2,0,2,0"> 
+        Jesus said, “Now is the judgment of this world; now will the ruler of this world be cast out. And I, when I am lifted up from the earth, will draw all people to myself.” 
+      </iphod.Regular>
+      <Reference>John 12:31-32</Reference>
+  
+      <iphod.Regular Margin="2,0,2,0"> 
+        If anyone is in Christ, he is a new creation. The old has passed away; behold, the new has come. All this is from God, who through Christ reconciled us to himself and gave us the ministry of reconciliation.
+      </iphod.Regular>
+      <Reference>2 Corinthians 5:17-18</Reference>
+  
+      <iphod.Regular Margin="2,0,2,0"> 
+        From the rising of the sun to its setting my Name will be great among the nations, and in every place incense will be offered to my Name, and a pure offering. For my Name will be great among the nations, says the Lord of Hosts.
+      </iphod.Regular>
+      <Reference>Malachi 1:11</Reference>
+
+      <Rubric>At the end of the reading is said</Rubric>
+      <Versical Speaker="" Text="The Word of the Lord" />
+      <Versical Speaker="People" Text="Thanks be to God." />
+
+      <Rubric>A meditation, silent or spoken, may follow.</Rubric>
+      <Rubric>The Officiant then begins the Prayers</Rubric>
+      <Versical Speaker="Officiant" Text="I will bless the Lord at all times" />
+      <Versical Speaker="People" Text="His praise shall continually be in my mouth" />
+
+      <iphod.Regular>Lord, have mercy [upon us].</iphod.Regular>
+      <iphod.Italic>Christ, have mercy [upon us].</iphod.Italic>
+      <iphod.Regular>Lord, have mercy [upon us].</iphod.Regular>
+
+      <Rubric>Officient and People</Rubric>
+      <LordsPrayerTraditional />
+      <Rubric>or this</Rubric>
+      <LordsPrayerContemporary />
+
+      <Versical Speaker="Officiant" Text="O Lord, hear our prayer;" />
+      <Versical Speaker="People" Text="And let our cry come to you." />
+      <Versical Speaker="Officiant" Text="Let us pray." />
+
+      <Rubric>The Officiant then says one or more of the following Collects. Other appropriate Collects may also be used.</Rubric>
+      <iphod.Regular>
+        Blessed Savior, at this hour you hung upon the cross, stretching out your loving arms: Grant that all the peoples of the earth may look to you and be saved; for your tender mercies’ sake.
+      </iphod.Regular>
+      <iphod.Italic>Amen</iphod.Italic>
+
+       <iphod.Regular>
+         Almighty Savior, who at mid-day called your servant Saint Paul to be an apostle to the Gentiles: We pray you to illumine the world with the radiance of your glory, that all nations may come and worship you; for you live and reign with the Father and the Holy Spirit, one God, for ever and ever. 
+       </iphod.Regular>
+       <iphod.Italic>Amen</iphod.Italic>
+
+      <iphod.Regular>
+        Father of all mercies, you revealed your boundless compassion to your apostle Saint Peter in a threefold vision: Forgive our unbelief, we pray, and so strengthen our hearts and enkindle our zeal, that we may fervently desire the salvation of all people, and diligently labor in the extension of your kingdom; through him who gave himself for the life of the world, your Son our Savior Jesus Christ. 
+      </iphod.Regular>
+      <iphod.Italic>Amen</iphod.Italic>
+
+      <Rubric>Silence may be kept, and other intersessions and thanksgiving may be offered</Rubric>
+      <Versical Speaker="Officiant" Text="Let us bless the Lord" />
+      <Versical Speaker="People" Text="Thanks be to God" />
+
+      <Rubric>From Easter Day through the Day of Pentecost “Alleluia, alleluia” may be added to the preceding versicle and response.</Rubric>
+      <Rubric>The Officiant may conclude with this, or one of the other Graces from Morning and Evening Prayer.</Rubric>
+
+      <iphod.Regular>
+        The grace of our Lord Jesus Christ, and the love of God, and the fellowship of the Holy Spirit, be with us all evermore.
+      </iphod.Regular>
+      <iphod.Italic>Amen.</iphod.Italic>
+      <Reference>2 Corinthians 13:14</Reference>
+
+      <SectionTitle Visibility="{directiveVisibility}">Additional Directions</SectionTitle>
+      <Text Visibility="{directiveVisibility}" TextWrapping="Wrap">
+        If desired, either version of the Lord’s Prayer may conclude with the phrase, “deliver us from evil,” omitting the doxology.
+      </Text>
+      <iphod.Button Text="Additional Directives" Clicked="{directives}"  Margin="1" Padding="10" Dock="Bottom" />
+    </StackPanel>
+  </ScrollView>
+</iphod.Page>
