@@ -66,4 +66,5 @@ module.exports = {
   , nameOfSeason: nameOfSeason
   , invitatoryCanticle: invitatoryCanticle
   , setup: setup
+  , firstReading: firstReading
 }

@@ -1,6 +1,7 @@
 <iphod.Page ux:Class="MorningPrayerPage">
   <Router ux:Dependency="router" />
-  <JavaScript File="MorningPrayerPage.js" />  <Activated>
+  <JavaScript File="MorningPrayerPage.js" />
+  <Activated>
     <Callback Handler="{setup}" />
   </Activated>
   <ScrollView>

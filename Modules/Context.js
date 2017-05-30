@@ -3,16 +3,16 @@ var Observable = require("FuseJS/Observable")
   , BCP = require("./bcp")
   , EU = require("./eu")
   , MPEP = require("./mpep")
-  , pages = Observable()
+  // , pages = Observable()
   ;
 
-Backend.getPages()
-  .then(function(newPages) {
-    pages.replaceAll(newPages);
-  })
-  .catch(function(error) {
-    console.log("Couldn't get pages: " + error)
-  })
+// Backend.getPages()
+//   .then(function(newPages) {
+//     pages.replaceAll(newPages);
+//   })
+//   .catch(function(error) {
+//     console.log("Couldn't get pages: " + error)
+//   })
 
 module.exports = {
     pages: Backend.pages

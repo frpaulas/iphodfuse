@@ -9,8 +9,8 @@
   <Router ux:Name="router" />
 
   <ClientPanel>
-    <SwipeGesture ux:Name="swipe" Direction="Right" Length="50" Type="Simple" />    
-    <Navigator DefaultPath="home" SwipeBack="Right">
+    <!-- <SwipeGesture ux:Name="swipe" Direction="Right" Length="50" Type="Simple" />     -->
+    <Navigator DefaultPath="home" SwipeBack="Right" DeferPageSwitch="Deferring">
       <HomePage               ux:Template="home"                    router="router" />
       <CalendarPage           ux:Template="calendarPage"            router="router" />
       <MorningPrayerPage      ux:Template="morningPrayerPage"       router="router" />
