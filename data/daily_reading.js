@@ -499,62 +499,59 @@
 'epiphany', 2, 'Saturday'        , mp2: [ {style: "req", read: "matthew 15:1-28"} ]
 'epiphany', 2, 'Saturday'        , ep1: [ {style: "req", read: "habakkuk 2:1-999"} ]
 'epiphany', 2, 'Saturday'        , ep2: [ {style: "req", read: "corinthians1 6:1-999"} ]
-'epiphany', 3, 'Sunday'
-        , mp1: [ {style: "req", read: "amos 5:6-24"} ]
-        , mp2: [ {style: "req", read: "john 6:41-999"} ]
-        , ep1: [ {style: "req", read: "isaiah 46:3-999"} ]
-        , ep2: [ {style: "req", read: "mark 7:24-999"} ]
-        }
-      , Monday:
-        , mp1: [ {style: "req", read: "habakkuk 3:1-999"} ]
-        , mp2: [ {style: "req", read: "corinthians1 7:1-999"} ]
-        , ep1: [ {style: "req", read: "malichi 1:1-999"} ]
-        , ep2: [ {style: "req", read: "corinthians1 8:1-999"} ]
-        }
-      , Tuesday:
-        , mp1: [ {style: "req", read: "malichi 2:1-16"} ]
-        , mp2: [ {style: "req", read: "corinthians1 9:1-999"} ]
-        , ep1: [ {style: "req", read: "malichi 2:17-999"}
-               , {style: "req", read: "malichi 3:1-12"} 
-               ]
-        , ep2: [ {style: "req", read: "corinthians1 10:1-999"}
-               , {style: "req", read: "corinthians 11:1-1"} 
-               ]
-        }
-      , Wednesday:
-        , mp1: [ {style: "req", read: "malichi 3:13-999"}
-               , {style: "req", read: "malichi 4:1-999"} 
-               ]
-        , mp2: [ {style: "req", read: "corinthians1 11:2-999"} ]
-        , ep1: [ {style: "req", read: "obadiah 1:1-999"} ]
-        , ep2: [ {style: "req", read: "corinthians1 12:1-27"} ]
-        }
-      , Thursday:
-        , mp1: [ {style: "req", read: "joel 1:1-999"} ]
-        , mp2: [ {style: "req", read: "corinthians1 12:27-999"}
-               , {style: "req", read: "corinthians1 13:1-999"} 
-               ]
-        , ep1: [ {style: "req", read: "joel 2:1-14"} ]
-        , ep2: [ {style: "req", read: "corinthians1 14:1-19"} ]
-        }
-      , Friday:
-          , mp1: [ {style: "req", read: "joel 2:15-999"} ]
-          , mp2: [ {style: "req", read: "corinthians1 14:20-999"} ]
-          , ep1: [ {style: "req", read: "joel 3:1-999"} ]
-          , ep2: [ {style: "req", read: "corinthians1 15:1-34"} ]
-        }
-      , Saturday:
-          , mp1: [ {style: "req", read: "jonah 1:1-999"}
-                 , {style: "req", read: "jonah 2:1-999"} ]
-          , mp2: [ {style: "req", read: "corinthians1 15:35-999"} ]
-          , ep1: [ {style: "req", read: "jonah 3:1-999"} 
-                 , {style: "req", read: "jonah 4:1-999"} 
-                 ]
-          , ep2: [ {style: "req", read: "corinthians1 16:1-999"} ]
-        }
-        }
-    , 4:
-      { Sunday:
+
+'epiphany', 3, 'Sunday'        , mp1: [ {style: "req", read: "amos 5:6-24"} ]
+'epiphany', 3, 'Sunday'        , mp2: [ {style: "req", read: "john 6:41-999"} ]
+'epiphany', 3, 'Sunday'        , ep1: [ {style: "req", read: "isaiah 46:3-999"} ]
+'epiphany', 3, 'Sunday'        , ep2: [ {style: "req", read: "mark 7:24-999"} ]
+'epiphany', 3, 'Sunday'        }
+
+'epiphany', 3, 'Monday'        , mp1: [ {style: "req", read: "habakkuk 3:1-999"} ]
+'epiphany', 3, 'Monday'        , mp2: [ {style: "req", read: "corinthians1 7:1-999"} ]
+'epiphany', 3, 'Monday'        , ep1: [ {style: "req", read: "malichi 1:1-999"} ]
+'epiphany', 3, 'Monday'        , ep2: [ {style: "req", read: "corinthians1 8:1-999"} ]
+'epiphany', 3, 'Monday'        }
+
+'epiphany', 3, 'Tuesday'        , mp1: [ {style: "req", read: "malichi 2:1-16"} ]
+'epiphany', 3, 'Tuesday'        , mp2: [ {style: "req", read: "corinthians1 9:1-999"} ]
+'epiphany', 3, 'Tuesday'        , ep1: [ {style: "req", read: "malichi 2:17-999"}
+'epiphany', 3, 'Tuesday'               , {style: "req", read: "malichi 3:1-12"} 
+'epiphany', 3, 'Tuesday'               ]
+'epiphany', 3, 'Tuesday'        , ep2: [ {style: "req", read: "corinthians1 10:1-999"}
+'epiphany', 3, 'Tuesday'               , {style: "req", read: "corinthians 11:1-1"} 
+'epiphany', 3, 'Tuesday'               ]
+'epiphany', 3, 'Tuesday'        }
+
+'epiphany', 3, 'Wednesday'        , mp1: [ {style: "req", read: "malichi 3:13-999"}
+'epiphany', 3, 'Wednesday'               , {style: "req", read: "malichi 4:1-999"} 
+'epiphany', 3, 'Wednesday'               ]
+'epiphany', 3, 'Wednesday'        , mp2: [ {style: "req", read: "corinthians1 11:2-999"} ]
+'epiphany', 3, 'Wednesday'        , ep1: [ {style: "req", read: "obadiah 1:1-999"} ]
+'epiphany', 3, 'Wednesday'        , ep2: [ {style: "req", read: "corinthians1 12:1-27"} ]
+'epiphany', 3, 'Wednesday'        }
+
+'epiphany', 3, 'Thursday'        , mp1: [ {style: "req", read: "joel 1:1-999"} ]
+'epiphany', 3, 'Thursday'        , mp2: [ {style: "req", read: "corinthians1 12:27-999"}
+'epiphany', 3, 'Thursday'               , {style: "req", read: "corinthians1 13:1-999"} 
+'epiphany', 3, 'Thursday'               ]
+'epiphany', 3, 'Thursday'        , ep1: [ {style: "req", read: "joel 2:1-14"} ]
+'epiphany', 3, 'Thursday'        , ep2: [ {style: "req", read: "corinthians1 14:1-19"} ]
+'epiphany', 3, 'Thursday'        }
+
+'epiphany', 3, 'Friday'          , mp1: [ {style: "req", read: "joel 2:15-999"} ]
+'epiphany', 3, 'Friday'          , mp2: [ {style: "req", read: "corinthians1 14:20-999"} ]
+'epiphany', 3, 'Friday'          , ep1: [ {style: "req", read: "joel 3:1-999"} ]
+'epiphany', 3, 'Friday'          , ep2: [ {style: "req", read: "corinthians1 15:1-34"} ]
+'epiphany', 3, 'Friday'        }
+
+'epiphany', 3, 'Saturday'          , mp1: [ {style: "req", read: "jonah 1:1-999"}
+'epiphany', 3, 'Saturday'                 , {style: "req", read: "jonah 2:1-999"} ]
+'epiphany', 3, 'Saturday'          , mp2: [ {style: "req", read: "corinthians1 15:35-999"} ]
+'epiphany', 3, 'Saturday'          , ep1: [ {style: "req", read: "jonah 3:1-999"} 
+'epiphany', 3, 'Saturday'                 , {style: "req", read: "jonah 4:1-999"} 
+'epiphany', 3, 'Saturday'                 ]
+'epiphany', 3, 'Saturday'          , ep2: [ {style: "req", read: "corinthians1 16:1-999"} ]
+'epiphany', 4, 'Sunday'
         , mp1: [ {style: "req", read: "amos 7:1-999"} ]
         , mp2: [ {style: "req", read: "john 7:53-999"}
                , {style: "req", read: "john 8:1-11"} 
