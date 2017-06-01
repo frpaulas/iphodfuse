@@ -46,7 +46,7 @@ These seasonal antiphons may be sung or said before and after the Invitatory Psa
 
       <Rubric>A citation giving chapter and verse may be added.</Rubric>
       <Each Items="{firstReading}">
-        <PsalmTitle Text="{title}" >CHAP VSS... {chap}:{vsFrom}-{vsTo}</PsalmTitle>
+        <PsalmTitle Text="{title} {chap}:{vsFrom}-{vsTo}" />
       </Each>
       <Rubric>After each Lesson the Reader may say</Rubric>
       <TheWordOfTheLord />

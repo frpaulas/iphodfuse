@@ -1,13 +1,24 @@
 {
-  "RootNamespace":"",
+  "RootNamespace": "",
   "Packages": [
     "Fuse",
     "FuseJS"
   ],
   "Includes": [
-      "*"
-    , "Modules/*.js:Bundle"
-    , "node_modules/moment/moment.js:Bundle"
-    , "Modules/Books/*.js:Bundle"
-  ]
+    "*",
+    "Modules/*.js:Bundle",
+    "node_modules/moment/moment.js:Bundle",
+    "Modules/Books/*.js:Bundle"
+  ],
+  "Projects": [
+    "fuse_modules/bolav/fuse-sqlite/sqlite_include.unoproj"
+  ],
+  "Excludes": [
+    "fuse_modules/"
+  ],
+  "FusePM": {
+    "Dependencies": [
+      "https://github.com/bolav/fuse-sqlite"
+    ]
+  }
 }

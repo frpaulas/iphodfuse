@@ -40,15 +40,12 @@ function setup() {
 function setLessons(readings) {
   var mp1 = readings.first
     , mp2 = readings.second
-    , text1 = ""
-    , text2 = ""
-    , resp = null
     ;
   mp1.forEach(function(el) {
-      var obj = WEBBible.getReading(el.read);
-      obj.type = el.style;
-      firstReading.add(obj);
-    })
+    var obj = WEBBible.getReading(el.read);
+    obj.type = el.style;
+    firstReading.add(obj);
+  })
   mp2.value = mp2.map(function(el) {
     var obj = WEBBible.getReading(el.read)
     obj.type = el.style;
@@ -67,4 +64,5 @@ module.exports = {
   , invitatoryCanticle: invitatoryCanticle
   , setup: setup
   , firstReading: firstReading
+  , secondReading: secondReading
 }
